@@ -1,0 +1,1001 @@
+Project_ID,Description,Type,Location,Site_Conditions,Square_Footage,Floors,Units,Foundation,Framing,Exterior_Finish,Roofing,HVAC,Plumbing,Electrical,Fire_Protection,Permitting_Fees,cost_estimation
+1,Projet Renovation,Industrial,"Ekaterinburg, Russia",5,84844,7,100,Crawlspace,Wood,Siding,Tiles,central system electric,Flexi_Pipe,869,False,1468.88,134000
+2,Projet Renovation,Residential,"Ekaterinburg, Russia",10,39521,8,39,Slab,Steel,Brick,Metal,central system electric,ABS_Pipe,270,False,3705.9,82500
+3,Projet Renovation,Industrial,"Saint-peterburg, Russia",9,4802,9,76,Slab,Concrete,Siding,Metal,central system electric,Braided_Pipe,881,True,2177.41,121700
+4,Projet Renovation,Residential,"Ekaterinburg, Russia",8,47391,1,93,Basement,Steel,Brick,Shingles,central system electric,Rigid_Copper_Pipe,322,True,3605.89,117500
+5,Projet New building,Residential,"kazan, Russia",4,42148,7,66,Basement,Concrete,Stucco,Shingles,central system gaz,PEX_Pipe,476,True,2349.77,99700
+6,Projet New building,Commercial,"Ekaterinburg, Russia",9,63585,10,58,Slab,Concrete,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,255,False,4557.0,106200
+7,Projet New building,Commercial,"Tambov, Russia",9,55581,6,16,Basement,Concrete,Stucco,Tiles,central system gaz,PVC_Pipe,781,True,2390.86,52700
+8,Projet New building,Industrial,"Ekaterinburg, Russia",1,29054,5,76,Crawlspace,Wood,Stucco,Metal,central system gaz,ABS_Pipe,790,True,942.21,104500
+9,Projet New building,Industrial,"kazan, Russia",4,56575,10,19,Basement,Steel,Brick,Shingles,central system gaz,PVC_Pipe,973,False,2623.97,62500
+10,Projet New building,Residential,"Tambov, Russia",2,14823,1,68,Slab,Concrete,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,390,False,2512.68,81200
+11,Projet New building,Commercial,"Ekaterinburg, Russia",2,77234,7,3,Crawlspace,Concrete,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,891,False,1056.74,36200
+12,Projet Renovation,Residential,"Ekaterinburg, Russia",10,71333,3,66,Basement,Wood,Siding,Shingles,central system electric,PEX_Pipe,905,True,4553.73,96500
+13,Projet New building,Commercial,"Saint-peterburg, Russia",7,84842,10,68,Crawlspace,Concrete,Brick,Tiles,central system electric,Braided_Pipe,329,True,3251.0,119200
+14,Projet Renovation,Residential,"Saint-peterburg, Russia",5,23014,8,42,Slab,Concrete,Stucco,Metal,central system electric,PEX_Pipe,344,True,3197.68,76700
+15,Projet New building,Commercial,"Tambov, Russia",8,55009,6,25,Crawlspace,Wood,Siding,Metal,central system gaz,Rigid_Copper_Pipe,748,True,245.35,64500
+16,Projet New building,Industrial,"Tambov, Russia",4,51830,4,7,Slab,Wood,Stucco,Tiles,central system electric,PVC_Pipe,943,True,1521.7,30000
+17,Projet Renovation,Industrial,"kazan, Russia",5,42367,3,89,Crawlspace,Wood,Siding,Metal,central system gaz,Rigid_Copper_Pipe,456,True,644.47,111500
+18,Projet Renovation,Residential,"kazan, Russia",5,88966,3,70,Slab,Steel,Stucco,Shingles,central system gaz,Flexi_Pipe,723,True,4098.9,91000
+19,Projet Renovation,Commercial,"kazan, Russia",6,8055,5,85,Slab,Steel,Siding,Tiles,central system electric,Braided_Pipe,238,True,1186.49,118000
+20,Projet New building,Residential,"Ekaterinburg, Russia",1,68210,10,62,Crawlspace,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,778,True,2242.04,108000
+21,Projet Renovation,Residential,"Moscow, Russia",4,45333,7,72,Basement,Concrete,Brick,Tiles,central system electric,PVC_Pipe,339,True,2599.29,104700
+22,Projet New building,Commercial,"Moscow, Russia",1,60332,1,56,Basement,Steel,Siding,Shingles,central system gaz,PVC_Pipe,866,True,581.5,71500
+23,Projet New building,Commercial,"kazan, Russia",7,9847,3,73,Slab,Steel,Siding,Shingles,central system electric,PEX_Pipe,606,True,1551.24,102000
+24,Projet New building,Industrial,"kazan, Russia",6,34049,9,27,Basement,Concrete,Siding,Shingles,central system electric,Braided_Pipe,490,True,2911.02,74700
+25,Projet Renovation,Commercial,"Ekaterinburg, Russia",2,38827,4,41,Crawlspace,Wood,Brick,Shingles,central system gaz,Rigid_Copper_Pipe,492,True,2649.19,69000
+26,Projet Renovation,Residential,"Ekaterinburg, Russia",5,10757,9,66,Crawlspace,Wood,Siding,Shingles,central system electric,Flexi_Pipe,974,True,1103.67,108000
+27,Projet Renovation,Residential,"Moscow, Russia",7,71009,9,86,Basement,Steel,Stucco,Shingles,central system gaz,ABS_Pipe,286,True,4253.27,133500
+28,Projet Renovation,Residential,"Moscow, Russia",10,69018,1,2,Basement,Concrete,Brick,Tiles,central system electric,Rigid_Copper_Pipe,151,True,3453.31,24700
+29,Projet Renovation,Residential,"Ekaterinburg, Russia",3,75674,2,84,Crawlspace,Steel,Siding,Shingles,central system gaz,PVC_Pipe,743,True,4220.98,104000
+30,Projet Renovation,Industrial,"Moscow, Russia",7,13962,5,57,Crawlspace,Wood,Siding,Metal,central system electric,PEX_Pipe,284,True,326.67,93500
+31,Projet Renovation,Residential,"Saint-peterburg, Russia",9,98654,8,91,Slab,Steel,Siding,Shingles,central system gaz,Flexi_Pipe,788,True,1247.45,135000
+32,Projet New building,Commercial,"Saint-peterburg, Russia",6,62965,3,4,Slab,Concrete,Brick,Tiles,central system gaz,PEX_Pipe,248,False,3043.61,32200
+33,Projet Renovation,Residential,"Ekaterinburg, Russia",5,14516,8,12,Slab,Steel,Stucco,Metal,central system electric,Rigid_Copper_Pipe,982,False,2887.85,46500
+34,Projet Renovation,Residential,"Tambov, Russia",8,64131,7,93,Crawlspace,Wood,Brick,Tiles,central system electric,Braided_Pipe,260,True,3179.84,136000
+35,Projet New building,Commercial,"Ekaterinburg, Russia",10,25960,3,97,Slab,Steel,Brick,Metal,central system gaz,Flexi_Pipe,267,False,790.6,125500
+36,Projet New building,Residential,"Tambov, Russia",9,31850,3,4,Basement,Steel,Brick,Metal,central system electric,PVC_Pipe,551,False,2465.76,33000
+37,Projet Renovation,Industrial,"Ekaterinburg, Russia",3,17102,9,56,Slab,Concrete,Siding,Tiles,central system gaz,Braided_Pipe,314,True,3941.86,93200
+38,Projet New building,Residential,"Saint-peterburg, Russia",6,26219,1,89,Crawlspace,Concrete,Brick,Shingles,central system gaz,Flexi_Pipe,316,True,357.53,115200
+39,Projet Renovation,Residential,"Moscow, Russia",4,30220,7,69,Crawlspace,Concrete,Siding,Shingles,central system electric,PEX_Pipe,164,False,641.81,104200
+40,Projet Renovation,Industrial,"Saint-peterburg, Russia",2,30415,3,29,Basement,Concrete,Brick,Tiles,central system electric,Rigid_Copper_Pipe,448,True,1509.01,49700
+41,Projet Renovation,Industrial,"Saint-peterburg, Russia",7,42905,9,70,Slab,Steel,Brick,Tiles,central system electric,ABS_Pipe,305,False,3996.42,116000
+42,Projet New building,Residential,"Saint-peterburg, Russia",10,91752,3,7,Basement,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,971,False,2579.94,34700
+43,Projet Renovation,Industrial,"Ekaterinburg, Russia",6,6327,7,47,Slab,Concrete,Brick,Metal,central system electric,PEX_Pipe,590,False,2736.36,87700
+44,Projet Renovation,Industrial,"Moscow, Russia",9,32144,10,96,Crawlspace,Steel,Stucco,Shingles,central system electric,PVC_Pipe,405,True,1724.93,148000
+45,Projet New building,Residential,"kazan, Russia",9,15735,2,78,Slab,Steel,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,681,True,4578.41,104000
+46,Projet New building,Commercial,"Moscow, Russia",4,39203,3,70,Crawlspace,Steel,Siding,Tiles,central system gaz,Braided_Pipe,514,False,1912.59,91000
+47,Projet Renovation,Residential,"Saint-peterburg, Russia",1,83901,9,94,Crawlspace,Steel,Brick,Metal,central system electric,Flexi_Pipe,467,False,2478.07,134500
+48,Projet New building,Industrial,"Saint-peterburg, Russia",4,55951,1,24,Basement,Wood,Brick,Metal,central system gaz,PVC_Pipe,947,False,4092.17,40000
+49,Projet Renovation,Commercial,"Moscow, Russia",1,52262,5,39,Basement,Concrete,Siding,Shingles,central system electric,Braided_Pipe,562,False,1900.55,66700
+50,Projet New building,Industrial,"Ekaterinburg, Russia",9,49040,1,86,Basement,Steel,Siding,Shingles,central system electric,Braided_Pipe,384,False,2965.28,109500
+51,Projet Renovation,Industrial,"kazan, Russia",1,42962,3,62,Slab,Concrete,Siding,Shingles,central system gaz,Braided_Pipe,285,False,1577.89,83200
+52,Projet New building,Commercial,"kazan, Russia",7,54947,7,76,Basement,Steel,Stucco,Shingles,central system electric,ABS_Pipe,800,False,1649.42,117500
+53,Projet Renovation,Residential,"Ekaterinburg, Russia",2,90402,10,92,Basement,Concrete,Siding,Shingles,central system electric,Braided_Pipe,565,True,2800.2,134700
+54,Projet Renovation,Industrial,"Tambov, Russia",8,57231,8,41,Basement,Wood,Stucco,Shingles,central system gaz,Braided_Pipe,386,False,3875.45,86500
+55,Projet Renovation,Industrial,"Moscow, Russia",9,54800,1,45,Crawlspace,Steel,Brick,Shingles,central system electric,PEX_Pipe,922,False,2527.34,71000
+56,Projet Renovation,Commercial,"Ekaterinburg, Russia",7,22178,4,84,Basement,Concrete,Siding,Tiles,central system gaz,ABS_Pipe,859,False,4793.54,114700
+57,Projet New building,Industrial,"Tambov, Russia",6,46844,7,6,Basement,Wood,Brick,Tiles,central system gaz,ABS_Pipe,841,False,3271.96,47500
+58,Projet New building,Commercial,"kazan, Russia",5,53656,9,17,Basement,Concrete,Siding,Tiles,central system gaz,ABS_Pipe,495,True,4906.94,54700
+59,Projet New building,Industrial,"Moscow, Russia",9,8419,5,6,Basement,Concrete,Stucco,Tiles,central system gaz,Flexi_Pipe,448,True,4260.08,39700
+60,Projet Renovation,Commercial,"Saint-peterburg, Russia",4,54036,7,26,Slab,Steel,Stucco,Metal,central system gaz,Flexi_Pipe,932,False,643.19,57500
+61,Projet Renovation,Industrial,"kazan, Russia",5,64406,5,48,Slab,Wood,Siding,Metal,central system electric,PEX_Pipe,606,False,311.68,74500
+62,Projet New building,Residential,"Ekaterinburg, Russia",7,89475,4,12,Crawlspace,Steel,Siding,Metal,central system gaz,PEX_Pipe,981,False,3298.41,44500
+63,Projet New building,Commercial,"Tambov, Russia",10,6374,5,6,Crawlspace,Wood,Brick,Shingles,central system gaz,Rigid_Copper_Pipe,676,True,653.73,45000
+64,Projet New building,Commercial,"Moscow, Russia",7,72714,10,4,Slab,Wood,Siding,Metal,central system gaz,Flexi_Pipe,480,False,2155.22,53500
+65,Projet New building,Commercial,"Ekaterinburg, Russia",6,73684,7,82,Basement,Concrete,Brick,Tiles,central system gaz,Flexi_Pipe,379,False,3833.69,122700
+66,Projet New building,Industrial,"Ekaterinburg, Russia",7,20888,6,41,Basement,Wood,Stucco,Shingles,central system gaz,PVC_Pipe,229,True,3628.73,80500
+67,Projet New building,Commercial,"Moscow, Russia",6,29428,4,51,Crawlspace,Wood,Siding,Tiles,central system gaz,Braided_Pipe,595,True,1246.9,84000
+68,Projet New building,Commercial,"Moscow, Russia",2,83599,3,58,Slab,Wood,Stucco,Metal,central system electric,ABS_Pipe,380,False,2161.85,78500
+69,Projet New building,Commercial,"Ekaterinburg, Russia",2,5828,6,17,Basement,Concrete,Siding,Metal,central system gaz,PEX_Pipe,352,True,4150.71,46200
+70,Projet New building,Industrial,"Saint-peterburg, Russia",1,61124,4,82,Basement,Wood,Brick,Tiles,central system gaz,PEX_Pipe,649,True,2623.6,106500
+71,Projet Renovation,Residential,"Moscow, Russia",8,58094,5,71,Basement,Steel,Siding,Metal,central system gaz,Flexi_Pipe,419,False,3402.37,105000
+72,Projet New building,Commercial,"Saint-peterburg, Russia",7,90283,5,23,Crawlspace,Steel,Siding,Tiles,central system gaz,Flexi_Pipe,285,False,1860.09,58000
+73,Projet New building,Industrial,"Ekaterinburg, Russia",8,6051,4,13,Basement,Wood,Siding,Metal,central system gaz,Braided_Pipe,446,False,4503.81,45000
+74,Projet Renovation,Commercial,"Ekaterinburg, Russia",7,66057,10,72,Basement,Steel,Brick,Shingles,central system electric,Flexi_Pipe,780,True,245.25,123500
+75,Projet New building,Residential,"Ekaterinburg, Russia",10,29189,8,11,Crawlspace,Wood,Siding,Shingles,central system electric,ABS_Pipe,845,True,407.89,58000
+76,Projet Renovation,Residential,"Ekaterinburg, Russia",9,78129,7,63,Basement,Wood,Stucco,Tiles,central system electric,Flexi_Pipe,639,True,2086.86,103500
+77,Projet Renovation,Commercial,"Saint-peterburg, Russia",5,11975,3,9,Basement,Wood,Siding,Shingles,central system gaz,ABS_Pipe,457,True,3121.81,31500
+78,Projet Renovation,Industrial,"Saint-peterburg, Russia",9,45733,7,62,Slab,Concrete,Stucco,Tiles,central system electric,Flexi_Pipe,856,False,2783.65,101200
+79,Projet Renovation,Industrial,"Saint-peterburg, Russia",2,95405,1,52,Crawlspace,Wood,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,132,False,1235.31,70000
+80,Projet Renovation,Commercial,"Moscow, Russia",6,42145,6,21,Crawlspace,Concrete,Brick,Metal,central system electric,PVC_Pipe,991,True,4201.55,60700
+81,Projet New building,Industrial,"Moscow, Russia",4,49769,2,15,Crawlspace,Wood,Siding,Shingles,central system electric,Braided_Pipe,187,True,3776.17,36000
+82,Projet New building,Residential,"Ekaterinburg, Russia",4,91345,8,36,Basement,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,524,False,3659.19,70700
+83,Projet New building,Industrial,"Tambov, Russia",4,46163,1,89,Slab,Wood,Siding,Shingles,central system electric,Braided_Pipe,209,True,1004.11,105000
+84,Projet Renovation,Industrial,"Saint-peterburg, Russia",3,1534,9,13,Basement,Steel,Brick,Metal,central system gaz,Rigid_Copper_Pipe,335,False,874.68,52000
+85,Projet New building,Commercial,"Tambov, Russia",5,25438,7,95,Crawlspace,Wood,Siding,Shingles,central system electric,Braided_Pipe,189,True,3202.32,131000
+86,Projet New building,Commercial,"Moscow, Russia",10,3622,4,93,Slab,Steel,Brick,Metal,central system gaz,PVC_Pipe,121,False,2620.04,124500
+87,Projet Renovation,Commercial,"kazan, Russia",2,52729,6,78,Slab,Concrete,Brick,Shingles,central system electric,Rigid_Copper_Pipe,346,False,117.12,109200
+88,Projet New building,Residential,"kazan, Russia",2,13596,8,66,Basement,Steel,Siding,Metal,central system electric,Flexi_Pipe,292,True,488.06,101000
+89,Projet Renovation,Commercial,"Tambov, Russia",2,55280,10,33,Crawlspace,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,591,True,4316.23,76500
+90,Projet New building,Commercial,"kazan, Russia",5,14674,2,35,Slab,Steel,Siding,Tiles,central system gaz,ABS_Pipe,859,False,1045.29,51000
+91,Projet Renovation,Residential,"Ekaterinburg, Russia",1,99760,7,95,Crawlspace,Wood,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,189,True,990.72,131000
+92,Projet New building,Residential,"Moscow, Russia",2,5346,1,60,Basement,Concrete,Brick,Shingles,central system gaz,ABS_Pipe,901,False,3870.85,76700
+93,Projet New building,Residential,"kazan, Russia",5,44562,3,10,Crawlspace,Wood,Stucco,Tiles,central system electric,Braided_Pipe,484,True,2196.2,32000
+94,Projet New building,Industrial,"kazan, Russia",2,18229,10,90,Crawlspace,Wood,Siding,Shingles,central system gaz,Flexi_Pipe,843,False,2046.21,135000
+95,Projet Renovation,Residential,"kazan, Russia",6,73037,5,32,Basement,Wood,Stucco,Metal,central system gaz,Braided_Pipe,944,False,532.97,67000
+96,Projet Renovation,Residential,"kazan, Russia",8,89428,4,94,Slab,Wood,Stucco,Shingles,central system electric,Flexi_Pipe,802,False,126.76,127000
+97,Projet Renovation,Residential,"Ekaterinburg, Russia",4,2895,7,45,Basement,Wood,Brick,Metal,central system gaz,Rigid_Copper_Pipe,366,True,4134.33,79000
+98,Projet Renovation,Residential,"Tambov, Russia",1,14562,1,15,Slab,Steel,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,361,True,1886.17,28000
+99,Projet New building,Commercial,"Moscow, Russia",4,22783,8,97,Crawlspace,Concrete,Stucco,Shingles,central system gaz,PVC_Pipe,283,True,1290.88,135200
+100,Projet Renovation,Commercial,"kazan, Russia",2,68631,10,93,Slab,Steel,Brick,Shingles,central system electric,ABS_Pipe,311,True,1522.58,136000
+101,Projet Renovation,Commercial,"kazan, Russia",4,48143,2,75,Basement,Steel,Brick,Tiles,central system gaz,PVC_Pipe,702,False,2712.15,92500
+102,Projet New building,Residential,"Ekaterinburg, Russia",9,65893,8,23,Basement,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,574,False,3256.94,69500
+103,Projet New building,Commercial,"Saint-peterburg, Russia",2,36416,10,54,Basement,Concrete,Siding,Metal,central system gaz,Rigid_Copper_Pipe,997,False,835.32,95200
+104,Projet Renovation,Commercial,"Saint-peterburg, Russia",5,89960,4,40,Slab,Concrete,Brick,Metal,central system gaz,Rigid_Copper_Pipe,532,True,1952.61,63700
+105,Projet New building,Commercial,"kazan, Russia",5,85693,2,86,Crawlspace,Concrete,Brick,Metal,central system gaz,Flexi_Pipe,761,True,1516.67,105700
+106,Projet Renovation,Commercial,"kazan, Russia",9,90005,10,54,Slab,Concrete,Siding,Tiles,central system electric,ABS_Pipe,492,False,3280.69,102200
+107,Projet New building,Residential,"kazan, Russia",4,73713,2,64,Basement,Concrete,Brick,Tiles,central system gaz,Flexi_Pipe,833,False,3022.95,81700
+108,Projet Renovation,Industrial,"kazan, Russia",10,97252,6,44,Basement,Concrete,Siding,Tiles,central system electric,Flexi_Pipe,628,False,415.36,80700
+109,Projet New building,Residential,"Moscow, Russia",10,90678,6,16,Slab,Wood,Siding,Shingles,central system gaz,PVC_Pipe,699,False,4797.93,55000
+110,Projet New building,Commercial,"Tambov, Russia",7,36394,3,80,Crawlspace,Wood,Brick,Tiles,central system gaz,Braided_Pipe,138,False,3228.93,111000
+111,Projet Renovation,Residential,"Ekaterinburg, Russia",9,70594,9,4,Crawlspace,Concrete,Brick,Shingles,central system gaz,Flexi_Pipe,832,False,4383.7,54200
+112,Projet Renovation,Residential,"kazan, Russia",7,33978,3,35,Slab,Wood,Siding,Tiles,central system gaz,ABS_Pipe,789,True,2301.47,63000
+113,Projet New building,Residential,"Moscow, Russia",8,27415,4,98,Slab,Steel,Siding,Tiles,central system electric,Braided_Pipe,301,True,3534.44,128000
+114,Projet New building,Commercial,"Tambov, Russia",2,21651,4,92,Crawlspace,Wood,Brick,Tiles,central system electric,Flexi_Pipe,383,False,2855.3,118000
+115,Projet Renovation,Commercial,"Moscow, Russia",6,79799,3,30,Basement,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,263,False,2342.32,57700
+116,Projet Renovation,Residential,"Ekaterinburg, Russia",5,52733,1,41,Crawlspace,Wood,Brick,Tiles,central system gaz,PVC_Pipe,987,False,4120.29,58000
+117,Projet Renovation,Industrial,"Tambov, Russia",1,82069,10,76,Basement,Concrete,Stucco,Tiles,central system electric,Flexi_Pipe,442,False,3022.41,116700
+118,Projet Renovation,Residential,"kazan, Russia",5,33540,1,20,Basement,Wood,Brick,Metal,central system electric,Braided_Pipe,702,False,931.78,36000
+119,Projet Renovation,Residential,"Saint-peterburg, Russia",1,8694,7,87,Basement,Steel,Siding,Shingles,central system electric,Rigid_Copper_Pipe,117,False,708.73,120500
+120,Projet New building,Residential,"kazan, Russia",8,83177,9,75,Basement,Steel,Brick,Tiles,central system electric,Rigid_Copper_Pipe,599,True,4733.27,121500
+121,Projet Renovation,Commercial,"Saint-peterburg, Russia",8,50466,6,84,Basement,Steel,Siding,Tiles,central system gaz,PEX_Pipe,653,True,3304.11,120500
+122,Projet New building,Industrial,"kazan, Russia",10,65820,9,92,Basement,Concrete,Siding,Metal,central system gaz,Braided_Pipe,377,True,480.12,138200
+123,Projet New building,Commercial,"Ekaterinburg, Russia",1,91677,10,95,Slab,Wood,Siding,Tiles,central system gaz,PEX_Pipe,678,True,2639.67,136000
+124,Projet New building,Commercial,"kazan, Russia",2,38188,5,50,Crawlspace,Concrete,Siding,Metal,central system gaz,PVC_Pipe,266,False,2700.25,77700
+125,Projet Renovation,Commercial,"Moscow, Russia",5,79450,8,25,Slab,Wood,Stucco,Metal,central system gaz,Flexi_Pipe,977,True,2938.9,60500
+126,Projet New building,Commercial,"Saint-peterburg, Russia",6,78161,2,48,Basement,Concrete,Siding,Tiles,central system electric,PEX_Pipe,810,False,1956.16,72700
+127,Projet Renovation,Industrial,"Ekaterinburg, Russia",4,66902,6,25,Slab,Concrete,Siding,Metal,central system gaz,Flexi_Pipe,370,True,4092.58,53700
+128,Projet Renovation,Industrial,"Ekaterinburg, Russia",4,82693,4,97,Basement,Wood,Brick,Metal,central system electric,ABS_Pipe,924,True,825.67,122000
+129,Projet Renovation,Industrial,"Saint-peterburg, Russia",10,22592,2,50,Slab,Wood,Siding,Tiles,central system electric,Braided_Pipe,638,False,516.06,75000
+130,Projet Renovation,Industrial,"Saint-peterburg, Russia",9,91203,6,5,Slab,Steel,Brick,Tiles,central system gaz,ABS_Pipe,926,True,2579.73,42000
+131,Projet New building,Commercial,"Ekaterinburg, Russia",1,26904,5,28,Slab,Concrete,Stucco,Metal,central system electric,PVC_Pipe,228,True,2453.37,53700
+132,Projet New building,Commercial,"kazan, Russia",4,57246,6,16,Basement,Concrete,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,845,False,3133.94,46700
+133,Projet Renovation,Commercial,"Moscow, Russia",9,17597,6,80,Crawlspace,Steel,Stucco,Metal,central system electric,Braided_Pipe,525,True,293.79,118500
+134,Projet Renovation,Commercial,"Moscow, Russia",8,46311,2,11,Crawlspace,Wood,Brick,Shingles,central system gaz,Braided_Pipe,526,False,1571.77,41000
+135,Projet Renovation,Residential,"Saint-peterburg, Russia",6,72583,6,14,Crawlspace,Concrete,Siding,Shingles,central system electric,PVC_Pipe,286,False,2597.04,54200
+136,Projet Renovation,Industrial,"kazan, Russia",2,13056,8,10,Crawlspace,Steel,Brick,Metal,central system gaz,Braided_Pipe,669,False,1240.52,47500
+137,Projet Renovation,Industrial,"kazan, Russia",2,93196,10,27,Basement,Steel,Stucco,Shingles,central system electric,PVC_Pipe,112,False,1288.25,69500
+138,Projet Renovation,Residential,"kazan, Russia",9,10612,4,5,Crawlspace,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,346,False,3624.33,37200
+139,Projet New building,Industrial,"Tambov, Russia",8,54936,6,48,Crawlspace,Steel,Siding,Shingles,central system electric,ABS_Pipe,442,False,4086.23,88000
+140,Projet New building,Industrial,"Ekaterinburg, Russia",3,23068,10,25,Crawlspace,Steel,Stucco,Metal,central system gaz,Braided_Pipe,841,False,1539.03,67500
+141,Projet New building,Industrial,"Saint-peterburg, Russia",1,7296,1,89,Slab,Steel,Siding,Metal,central system gaz,Braided_Pipe,781,True,4945.7,102500
+142,Projet New building,Commercial,"Moscow, Russia",3,97796,6,93,Slab,Wood,Siding,Tiles,central system electric,ABS_Pipe,934,False,4168.86,122000
+143,Projet Renovation,Commercial,"kazan, Russia",6,57481,8,33,Slab,Wood,Siding,Metal,central system gaz,Flexi_Pipe,690,True,1288.75,76500
+144,Projet New building,Residential,"Ekaterinburg, Russia",5,38615,7,32,Crawlspace,Wood,Stucco,Tiles,central system gaz,ABS_Pipe,312,True,1813.2,66000
+145,Projet Renovation,Industrial,"Tambov, Russia",1,68873,5,84,Slab,Concrete,Stucco,Shingles,central system gaz,Flexi_Pipe,497,True,2231.18,111200
+146,Projet Renovation,Residential,"Saint-peterburg, Russia",5,11792,1,11,Basement,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,640,True,1601.94,24700
+147,Projet New building,Industrial,"kazan, Russia",3,1453,2,67,Crawlspace,Wood,Stucco,Metal,central system electric,ABS_Pipe,498,False,1768.87,86500
+148,Projet Renovation,Commercial,"Saint-peterburg, Russia",9,93327,1,98,Slab,Wood,Siding,Shingles,central system electric,PVC_Pipe,649,False,4319.96,122000
+149,Projet Renovation,Residential,"kazan, Russia",6,35225,9,7,Basement,Wood,Stucco,Shingles,central system gaz,Flexi_Pipe,231,False,222.99,55500
+150,Projet Renovation,Commercial,"Saint-peterburg, Russia",8,50178,7,59,Crawlspace,Concrete,Stucco,Metal,central system electric,PVC_Pipe,707,False,4500.46,100700
+151,Projet New building,Commercial,"Moscow, Russia",7,18342,1,61,Basement,Concrete,Brick,Tiles,central system gaz,PVC_Pipe,857,False,1289.31,83700
+152,Projet New building,Commercial,"kazan, Russia",8,81885,6,27,Slab,Wood,Siding,Shingles,central system gaz,Flexi_Pipe,122,False,3842.35,66000
+153,Projet New building,Commercial,"Ekaterinburg, Russia",2,79253,4,39,Crawlspace,Steel,Brick,Tiles,central system gaz,PVC_Pipe,295,True,2789.84,64000
+154,Projet Renovation,Residential,"Saint-peterburg, Russia",9,39955,9,66,Basement,Wood,Stucco,Tiles,central system gaz,PVC_Pipe,185,False,1438.67,112500
+155,Projet Renovation,Industrial,"Ekaterinburg, Russia",6,84314,7,7,Basement,Steel,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,256,True,3320.26,47500
+156,Projet Renovation,Residential,"Moscow, Russia",6,46048,8,60,Slab,Concrete,Stucco,Shingles,central system electric,ABS_Pipe,549,False,1130.5,104200
+157,Projet New building,Commercial,"Ekaterinburg, Russia",5,92900,7,51,Crawlspace,Wood,Stucco,Tiles,central system gaz,PVC_Pipe,192,True,3226.33,85000
+158,Projet New building,Commercial,"Saint-peterburg, Russia",6,76648,7,76,Basement,Wood,Siding,Metal,central system electric,Braided_Pipe,720,True,1247.5,117000
+159,Projet New building,Industrial,"kazan, Russia",3,20139,2,95,Basement,Wood,Brick,Tiles,central system electric,Braided_Pipe,192,True,222.06,113500
+160,Projet Renovation,Commercial,"kazan, Russia",10,66329,8,85,Slab,Wood,Siding,Shingles,central system gaz,ABS_Pipe,285,False,2786.82,130000
+161,Projet New building,Industrial,"Ekaterinburg, Russia",2,35591,1,37,Basement,Wood,Brick,Metal,central system gaz,ABS_Pipe,854,True,179.05,53000
+162,Projet New building,Residential,"kazan, Russia",5,65904,8,35,Slab,Concrete,Siding,Tiles,central system electric,PEX_Pipe,359,False,1686.46,69200
+163,Projet New building,Residential,"Ekaterinburg, Russia",3,59082,5,33,Basement,Wood,Brick,Shingles,central system gaz,PVC_Pipe,570,True,4312.74,62500
+164,Projet New building,Commercial,"Ekaterinburg, Russia",4,82786,8,55,Crawlspace,Steel,Brick,Metal,central system gaz,Flexi_Pipe,819,True,2584.65,92500
+165,Projet New building,Industrial,"kazan, Russia",2,74829,5,7,Basement,Concrete,Stucco,Tiles,central system gaz,Rigid_Copper_Pipe,322,False,1567.5,32700
+166,Projet New building,Residential,"Tambov, Russia",5,67225,7,77,Slab,Wood,Siding,Tiles,central system gaz,Braided_Pipe,420,False,3615.66,109000
+167,Projet New building,Commercial,"Moscow, Russia",10,8010,9,7,Slab,Concrete,Siding,Tiles,central system electric,Braided_Pipe,494,True,2133.11,52200
+168,Projet New building,Commercial,"kazan, Russia",5,49443,9,87,Crawlspace,Wood,Siding,Metal,central system gaz,Braided_Pipe,350,True,1556.43,127500
+169,Projet Renovation,Commercial,"Saint-peterburg, Russia",7,51701,10,63,Crawlspace,Concrete,Siding,Shingles,central system electric,PEX_Pipe,284,False,4483.74,115200
+170,Projet New building,Residential,"Saint-peterburg, Russia",9,49013,6,41,Slab,Concrete,Brick,Shingles,central system electric,Braided_Pipe,791,True,2758.98,80200
+171,Projet New building,Industrial,"Ekaterinburg, Russia",8,42337,10,72,Slab,Steel,Siding,Metal,central system gaz,PEX_Pipe,406,True,3004.49,120500
+172,Projet Renovation,Industrial,"Ekaterinburg, Russia",8,22286,3,42,Basement,Steel,Brick,Shingles,central system electric,PEX_Pipe,266,False,3768.41,72500
+173,Projet New building,Commercial,"Moscow, Russia",6,97008,4,34,Basement,Wood,Brick,Tiles,central system gaz,PVC_Pipe,340,True,3550.59,66500
+174,Projet New building,Residential,"kazan, Russia",3,54233,2,63,Slab,Concrete,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,459,False,2846.18,81200
+175,Projet Renovation,Commercial,"Moscow, Russia",3,41198,2,83,Crawlspace,Concrete,Siding,Tiles,central system gaz,PEX_Pipe,948,True,1227.9,101200
+176,Projet Renovation,Industrial,"Moscow, Russia",1,8112,8,39,Slab,Steel,Siding,Tiles,central system gaz,PEX_Pipe,842,True,3380.83,73000
+177,Projet Renovation,Commercial,"Ekaterinburg, Russia",8,81029,6,10,Crawlspace,Wood,Stucco,Metal,central system electric,ABS_Pipe,432,False,2390.54,49500
+178,Projet New building,Industrial,"Tambov, Russia",10,85527,4,11,Slab,Concrete,Stucco,Shingles,central system electric,Braided_Pipe,997,False,1359.35,43200
+179,Projet Renovation,Residential,"Saint-peterburg, Russia",2,45530,10,87,Slab,Steel,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,123,False,1645.11,127000
+180,Projet New building,Industrial,"Saint-peterburg, Russia",10,70400,9,2,Crawlspace,Wood,Stucco,Tiles,central system electric,PVC_Pipe,670,False,4192.83,50000
+181,Projet New building,Residential,"Moscow, Russia",10,35573,5,98,Basement,Concrete,Siding,Tiles,central system gaz,Flexi_Pipe,651,False,3623.1,131700
+182,Projet New building,Residential,"Tambov, Russia",1,65712,9,27,Slab,Steel,Brick,Metal,central system electric,PEX_Pipe,356,False,4143.97,65500
+183,Projet New building,Residential,"Ekaterinburg, Russia",8,24413,1,34,Slab,Steel,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,902,True,1048.42,55000
+184,Projet New building,Industrial,"kazan, Russia",6,42900,7,61,Crawlspace,Concrete,Brick,Shingles,central system gaz,PVC_Pipe,351,False,2262.13,105200
+185,Projet New building,Commercial,"Tambov, Russia",3,40786,4,89,Basement,Wood,Siding,Metal,central system gaz,Rigid_Copper_Pipe,973,True,2317.16,113000
+186,Projet New building,Residential,"Tambov, Russia",2,31899,5,85,Basement,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,115,False,1507.26,112000
+187,Projet New building,Residential,"Saint-peterburg, Russia",6,99999,8,69,Basement,Wood,Siding,Tiles,central system gaz,Flexi_Pipe,365,False,1017.91,112500
+188,Projet New building,Industrial,"Saint-peterburg, Russia",5,1009,1,54,Slab,Steel,Siding,Shingles,central system gaz,PEX_Pipe,863,False,884.73,69000
+189,Projet New building,Industrial,"Ekaterinburg, Russia",5,41187,9,45,Basement,Concrete,Siding,Tiles,central system electric,ABS_Pipe,628,False,1248.81,82700
+190,Projet New building,Residential,"Ekaterinburg, Russia",2,70696,7,89,Slab,Concrete,Siding,Metal,central system gaz,Flexi_Pipe,697,False,1886.72,120700
+191,Projet New building,Industrial,"Moscow, Russia",8,25818,6,11,Crawlspace,Wood,Stucco,Tiles,central system gaz,Braided_Pipe,661,True,3560.23,50000
+192,Projet New building,Residential,"Moscow, Russia",7,30543,6,2,Slab,Concrete,Brick,Tiles,central system electric,Braided_Pipe,935,False,579.75,39200
+193,Projet Renovation,Industrial,"kazan, Russia",10,33500,1,67,Slab,Concrete,Brick,Shingles,central system electric,Rigid_Copper_Pipe,962,True,621.56,91200
+194,Projet Renovation,Residential,"Tambov, Russia",8,60296,6,59,Slab,Concrete,Stucco,Metal,central system electric,ABS_Pipe,358,False,781.82,95700
+195,Projet Renovation,Residential,"Moscow, Russia",6,32625,6,48,Slab,Steel,Siding,Metal,central system gaz,PEX_Pipe,648,False,698.59,84500
+196,Projet New building,Commercial,"Saint-peterburg, Russia",4,60215,5,66,Crawlspace,Steel,Stucco,Metal,central system gaz,PVC_Pipe,186,False,2624.35,93500
+197,Projet New building,Commercial,"kazan, Russia",5,32731,6,97,Slab,Steel,Brick,Metal,central system electric,PVC_Pipe,214,True,1844.36,126500
+198,Projet New building,Residential,"kazan, Russia",10,13268,8,87,Crawlspace,Wood,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,709,True,3049.28,134000
+199,Projet New building,Commercial,"Tambov, Russia",8,56774,7,11,Crawlspace,Wood,Stucco,Tiles,central system electric,PVC_Pipe,173,False,1233.43,53000
+200,Projet Renovation,Residential,"Ekaterinburg, Russia",6,18872,8,17,Basement,Steel,Siding,Metal,central system gaz,Rigid_Copper_Pipe,311,True,2939.19,60000
+201,Projet Renovation,Residential,"Tambov, Russia",7,54494,2,48,Basement,Wood,Brick,Metal,central system gaz,PEX_Pipe,286,False,760.09,75000
+202,Projet New building,Residential,"kazan, Russia",9,7007,9,13,Crawlspace,Wood,Brick,Metal,central system electric,Rigid_Copper_Pipe,788,False,1267.71,62500
+203,Projet Renovation,Industrial,"kazan, Russia",2,42409,7,38,Crawlspace,Concrete,Siding,Tiles,central system gaz,ABS_Pipe,231,False,4134.26,71200
+204,Projet New building,Commercial,"Ekaterinburg, Russia",5,54156,8,32,Basement,Concrete,Brick,Shingles,central system electric,Braided_Pipe,259,True,1572.13,69700
+205,Projet New building,Industrial,"Saint-peterburg, Russia",9,74497,3,57,Crawlspace,Wood,Brick,Tiles,central system gaz,PEX_Pipe,266,False,3872.41,88000
+206,Projet New building,Commercial,"Saint-peterburg, Russia",3,5884,6,7,Crawlspace,Steel,Stucco,Shingles,central system electric,Flexi_Pipe,802,False,2917.59,39000
+207,Projet New building,Commercial,"Moscow, Russia",1,20362,7,35,Slab,Wood,Siding,Shingles,central system electric,Rigid_Copper_Pipe,660,False,1276.08,69000
+208,Projet New building,Commercial,"Tambov, Russia",10,3885,9,99,Slab,Wood,Siding,Metal,central system gaz,Flexi_Pipe,725,True,4125.26,145500
+209,Projet Renovation,Commercial,"Saint-peterburg, Russia",1,79123,7,61,Slab,Wood,Siding,Shingles,central system electric,PEX_Pipe,224,False,528.64,95000
+210,Projet Renovation,Industrial,"Tambov, Russia",8,84977,3,74,Crawlspace,Steel,Brick,Metal,central system gaz,PVC_Pipe,693,True,3121.43,104500
+211,Projet Renovation,Residential,"kazan, Russia",5,20797,3,96,Slab,Steel,Stucco,Tiles,central system electric,Braided_Pipe,102,True,3037.84,115000
+212,Projet Renovation,Residential,"kazan, Russia",4,38053,6,76,Slab,Wood,Siding,Tiles,central system gaz,Braided_Pipe,601,False,3264.84,105000
+213,Projet Renovation,Commercial,"Moscow, Russia",2,59597,2,10,Crawlspace,Concrete,Siding,Tiles,central system electric,PVC_Pipe,973,False,1691.28,28200
+214,Projet New building,Industrial,"Moscow, Russia",10,55692,1,11,Slab,Concrete,Stucco,Tiles,central system gaz,Flexi_Pipe,820,False,244.05,32200
+215,Projet New building,Residential,"Tambov, Russia",5,98228,7,41,Crawlspace,Steel,Siding,Shingles,central system electric,Rigid_Copper_Pipe,389,False,1345.67,76000
+216,Projet New building,Industrial,"Ekaterinburg, Russia",9,85805,6,51,Crawlspace,Concrete,Stucco,Metal,central system gaz,Braided_Pipe,758,True,782.99,89700
+217,Projet New building,Commercial,"Moscow, Russia",8,16460,8,13,Basement,Concrete,Brick,Shingles,central system electric,Flexi_Pipe,159,False,1832.43,58700
+218,Projet Renovation,Residential,"Saint-peterburg, Russia",8,78103,7,62,Slab,Concrete,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,552,True,2077.95,103200
+219,Projet New building,Industrial,"Tambov, Russia",5,11459,10,49,Basement,Wood,Stucco,Metal,central system gaz,PEX_Pipe,595,False,4829.84,91000
+220,Projet Renovation,Commercial,"Moscow, Russia",5,30952,1,75,Slab,Steel,Brick,Shingles,central system gaz,Braided_Pipe,669,True,2404.09,91000
+221,Projet New building,Commercial,"Ekaterinburg, Russia",2,24846,2,38,Crawlspace,Steel,Stucco,Shingles,central system electric,PEX_Pipe,299,True,1121.62,58000
+222,Projet Renovation,Residential,"Tambov, Russia",7,38936,1,61,Crawlspace,Wood,Stucco,Metal,central system electric,PVC_Pipe,647,True,4712.62,85500
+223,Projet Renovation,Industrial,"Ekaterinburg, Russia",2,42229,10,31,Basement,Steel,Siding,Metal,central system gaz,PVC_Pipe,172,True,3652.92,72000
+224,Projet New building,Commercial,"Ekaterinburg, Russia",3,29600,4,64,Basement,Steel,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,632,False,2344.42,88500
+225,Projet Renovation,Industrial,"Ekaterinburg, Russia",5,69031,6,17,Slab,Wood,Brick,Shingles,central system electric,Braided_Pipe,469,False,4706.96,49000
+226,Projet Renovation,Industrial,"kazan, Russia",6,6221,5,19,Slab,Steel,Siding,Metal,central system electric,PVC_Pipe,128,True,968.93,52500
+227,Projet Renovation,Commercial,"Tambov, Russia",2,1861,7,62,Crawlspace,Steel,Stucco,Shingles,central system gaz,ABS_Pipe,782,False,2426.6,97000
+228,Projet New building,Commercial,"Moscow, Russia",8,80387,5,47,Basement,Wood,Stucco,Shingles,central system electric,ABS_Pipe,655,False,1177.87,83500
+229,Projet Renovation,Residential,"Tambov, Russia",9,8821,10,50,Slab,Steel,Brick,Tiles,central system electric,ABS_Pipe,658,False,1032.18,99000
+230,Projet Renovation,Residential,"Moscow, Russia",6,98386,10,8,Slab,Wood,Brick,Shingles,central system gaz,Flexi_Pipe,758,False,1414.64,60000
+231,Projet New building,Commercial,"Moscow, Russia",3,79777,5,42,Basement,Steel,Brick,Metal,central system electric,Rigid_Copper_Pipe,646,True,4765.13,69000
+232,Projet Renovation,Commercial,"Saint-peterburg, Russia",2,61825,8,84,Crawlspace,Steel,Stucco,Tiles,central system gaz,Braided_Pipe,709,False,4628.49,120000
+233,Projet New building,Industrial,"Tambov, Russia",2,71595,4,52,Basement,Concrete,Stucco,Metal,central system electric,Rigid_Copper_Pipe,513,True,1694.31,75200
+234,Projet New building,Residential,"Moscow, Russia",6,55971,3,76,Slab,Wood,Siding,Tiles,central system gaz,Flexi_Pipe,170,False,927.69,104000
+235,Projet New building,Residential,"Moscow, Russia",8,80031,7,39,Basement,Steel,Siding,Tiles,central system gaz,PEX_Pipe,506,False,3157.78,78500
+236,Projet New building,Residential,"Saint-peterburg, Russia",7,51498,10,79,Basement,Wood,Stucco,Metal,central system electric,Braided_Pipe,302,True,3893.23,129000
+237,Projet Renovation,Industrial,"Saint-peterburg, Russia",10,19175,1,98,Crawlspace,Wood,Stucco,Tiles,central system electric,Flexi_Pipe,486,False,4256.57,122000
+238,Projet New building,Commercial,"Moscow, Russia",5,22635,9,30,Slab,Wood,Siding,Shingles,central system gaz,Braided_Pipe,268,False,2971.39,70000
+239,Projet New building,Residential,"Tambov, Russia",6,78292,8,52,Slab,Wood,Stucco,Metal,central system gaz,PVC_Pipe,652,False,2928.15,95500
+240,Projet Renovation,Industrial,"kazan, Russia",7,78214,9,72,Slab,Wood,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,918,True,246.84,118000
+241,Projet New building,Commercial,"Ekaterinburg, Russia",9,72024,2,44,Basement,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,345,True,4483.79,72500
+242,Projet Renovation,Residential,"Moscow, Russia",5,76800,9,25,Basement,Wood,Stucco,Metal,central system gaz,ABS_Pipe,612,False,2412.37,64000
+243,Projet New building,Commercial,"Moscow, Russia",7,66364,10,84,Basement,Steel,Stucco,Metal,central system electric,PVC_Pipe,473,False,1763.43,133000
+244,Projet New building,Industrial,"Tambov, Russia",3,85998,9,71,Slab,Steel,Brick,Shingles,central system gaz,ABS_Pipe,426,False,3503.28,111000
+245,Projet Renovation,Commercial,"Ekaterinburg, Russia",3,9817,4,32,Basement,Concrete,Stucco,Tiles,central system gaz,Braided_Pipe,387,True,4190.4,54700
+246,Projet New building,Industrial,"Saint-peterburg, Russia",4,47900,10,45,Crawlspace,Concrete,Stucco,Tiles,central system electric,Flexi_Pipe,552,True,1908.51,87200
+247,Projet New building,Commercial,"Ekaterinburg, Russia",7,9891,7,47,Crawlspace,Concrete,Brick,Metal,central system electric,Rigid_Copper_Pipe,330,False,1175.61,89700
+248,Projet Renovation,Residential,"Tambov, Russia",10,62404,1,3,Crawlspace,Concrete,Brick,Metal,central system electric,PEX_Pipe,520,False,716.09,27700
+249,Projet Renovation,Commercial,"Ekaterinburg, Russia",8,61927,4,72,Crawlspace,Wood,Brick,Shingles,central system gaz,PVC_Pipe,228,False,589.38,108000
+250,Projet Renovation,Commercial,"Moscow, Russia",4,94194,2,67,Crawlspace,Concrete,Stucco,Shingles,central system gaz,Flexi_Pipe,759,False,506.15,87200
+251,Projet New building,Commercial,"Tambov, Russia",4,44674,7,81,Slab,Concrete,Brick,Metal,central system gaz,ABS_Pipe,359,False,970.26,113700
+252,Projet Renovation,Commercial,"kazan, Russia",5,35191,10,44,Crawlspace,Steel,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,393,False,3358.1,86000
+253,Projet New building,Residential,"Ekaterinburg, Russia",5,73857,4,27,Slab,Wood,Siding,Shingles,central system gaz,Braided_Pipe,828,True,3564.73,52000
+254,Projet Renovation,Industrial,"Ekaterinburg, Russia",7,99186,6,46,Crawlspace,Concrete,Brick,Shingles,central system electric,Flexi_Pipe,544,True,2562.14,87200
+255,Projet Renovation,Commercial,"Moscow, Russia",1,1938,10,31,Slab,Wood,Brick,Tiles,central system gaz,PVC_Pipe,652,True,3270.01,73000
+256,Projet New building,Commercial,"Saint-peterburg, Russia",1,15055,8,23,Basement,Concrete,Siding,Tiles,central system gaz,PEX_Pipe,397,True,3060.69,57700
+257,Projet Renovation,Industrial,"kazan, Russia",2,7223,1,5,Crawlspace,Steel,Stucco,Metal,central system electric,Rigid_Copper_Pipe,668,False,4942.8,20500
+258,Projet Renovation,Residential,"Tambov, Russia",5,41556,2,78,Crawlspace,Concrete,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,758,True,2791.13,98200
+259,Projet Renovation,Commercial,"kazan, Russia",2,71178,2,1,Slab,Concrete,Brick,Tiles,central system gaz,PEX_Pipe,215,False,4301.07,18200
+260,Projet New building,Residential,"kazan, Russia",9,83120,1,16,Crawlspace,Wood,Siding,Shingles,central system gaz,ABS_Pipe,889,False,2994.19,42000
+261,Projet Renovation,Residential,"Tambov, Russia",2,78626,7,11,Basement,Concrete,Stucco,Metal,central system electric,Rigid_Copper_Pipe,862,False,2788.51,43200
+262,Projet Renovation,Industrial,"Ekaterinburg, Russia",4,77973,3,66,Crawlspace,Concrete,Brick,Tiles,central system gaz,ABS_Pipe,409,False,4740.29,88200
+263,Projet New building,Residential,"Tambov, Russia",10,97900,5,66,Basement,Concrete,Stucco,Tiles,central system gaz,ABS_Pipe,572,True,278.05,99700
+264,Projet Renovation,Industrial,"Tambov, Russia",10,17242,6,9,Slab,Steel,Brick,Tiles,central system gaz,PVC_Pipe,464,False,3980.4,46000
+265,Projet Renovation,Residential,"kazan, Russia",7,35838,4,86,Slab,Steel,Stucco,Tiles,central system electric,PVC_Pipe,536,False,3255.95,116000
+266,Projet Renovation,Commercial,"Ekaterinburg, Russia",5,80547,5,5,Basement,Concrete,Brick,Shingles,central system electric,Rigid_Copper_Pipe,581,False,417.66,33700
+267,Projet New building,Industrial,"Saint-peterburg, Russia",7,85584,3,54,Basement,Steel,Stucco,Tiles,central system gaz,Flexi_Pipe,755,False,1839.16,81500
+268,Projet New building,Commercial,"Moscow, Russia",10,8223,10,73,Crawlspace,Steel,Brick,Metal,central system gaz,Rigid_Copper_Pipe,303,False,2456.5,124500
+269,Projet New building,Residential,"Moscow, Russia",4,80954,10,48,Crawlspace,Wood,Brick,Metal,central system electric,ABS_Pipe,566,False,4836.79,92500
+270,Projet New building,Residential,"Saint-peterburg, Russia",10,80571,1,91,Slab,Concrete,Brick,Metal,central system gaz,PEX_Pipe,824,True,212.45,113700
+271,Projet New building,Commercial,"Ekaterinburg, Russia",9,46676,6,90,Basement,Steel,Siding,Shingles,central system electric,Flexi_Pipe,558,False,4700.68,128500
+272,Projet New building,Industrial,"Saint-peterburg, Russia",4,63829,5,84,Crawlspace,Steel,Siding,Tiles,central system gaz,PEX_Pipe,352,False,958.56,111000
+273,Projet New building,Residential,"Saint-peterburg, Russia",4,26689,5,61,Basement,Concrete,Brick,Shingles,central system gaz,ABS_Pipe,804,True,4366.96,89700
+274,Projet New building,Industrial,"Ekaterinburg, Russia",4,12658,5,32,Crawlspace,Concrete,Brick,Tiles,central system electric,PEX_Pipe,360,True,4026.68,60200
+275,Projet New building,Commercial,"Ekaterinburg, Russia",9,69510,5,77,Slab,Concrete,Brick,Shingles,central system electric,PEX_Pipe,217,True,3221.36,113200
+276,Projet New building,Residential,"Tambov, Russia",5,71113,8,92,Crawlspace,Wood,Siding,Tiles,central system electric,ABS_Pipe,277,True,3146.24,129000
+277,Projet Renovation,Industrial,"Tambov, Russia",4,38450,3,39,Crawlspace,Concrete,Siding,Metal,central system electric,Flexi_Pipe,381,True,1648.19,60700
+278,Projet New building,Industrial,"Ekaterinburg, Russia",2,31282,2,100,Crawlspace,Wood,Brick,Metal,central system electric,ABS_Pipe,626,False,800.69,120500
+279,Projet New building,Industrial,"Moscow, Russia",3,62230,7,25,Basement,Wood,Stucco,Metal,central system gaz,Rigid_Copper_Pipe,569,True,1861.79,58000
+280,Projet Renovation,Industrial,"kazan, Russia",10,7104,4,20,Basement,Concrete,Brick,Metal,central system electric,PEX_Pipe,733,True,1732.39,52200
+281,Projet Renovation,Commercial,"Saint-peterburg, Russia",5,13708,1,17,Basement,Wood,Stucco,Metal,central system electric,Braided_Pipe,747,False,1917.84,32000
+282,Projet Renovation,Industrial,"Tambov, Russia",3,21967,2,58,Crawlspace,Wood,Siding,Shingles,central system electric,Braided_Pipe,145,False,3356.41,79000
+283,Projet Renovation,Industrial,"Moscow, Russia",10,28549,9,75,Basement,Steel,Stucco,Metal,central system electric,Flexi_Pipe,482,False,3702.75,121000
+284,Projet New building,Commercial,"kazan, Russia",8,23542,5,1,Basement,Concrete,Siding,Metal,central system electric,Flexi_Pipe,423,True,1285.76,35200
+285,Projet New building,Commercial,"Ekaterinburg, Russia",7,56805,1,100,Slab,Concrete,Brick,Shingles,central system electric,Flexi_Pipe,450,True,1975.13,124200
+286,Projet Renovation,Residential,"Ekaterinburg, Russia",10,92416,6,50,Slab,Wood,Stucco,Tiles,central system electric,Flexi_Pipe,989,True,3706.15,87000
+287,Projet New building,Industrial,"Saint-peterburg, Russia",6,86165,10,51,Slab,Concrete,Stucco,Metal,central system electric,PVC_Pipe,692,False,4557.03,99700
+288,Projet New building,Commercial,"Moscow, Russia",2,67424,7,60,Basement,Steel,Stucco,Tiles,central system electric,PEX_Pipe,313,True,4096.95,91500
+289,Projet Renovation,Commercial,"Tambov, Russia",6,37897,9,80,Crawlspace,Steel,Stucco,Tiles,central system electric,Flexi_Pipe,448,False,2399.63,127000
+290,Projet New building,Industrial,"Tambov, Russia",5,30044,5,46,Basement,Wood,Stucco,Tiles,central system electric,Braided_Pipe,984,True,3924.46,72500
+291,Projet Renovation,Industrial,"Moscow, Russia",2,71443,10,76,Slab,Steel,Brick,Metal,central system electric,ABS_Pipe,572,True,2636.46,117500
+292,Projet Renovation,Residential,"Ekaterinburg, Russia",3,15771,6,4,Slab,Steel,Siding,Tiles,central system electric,Braided_Pipe,886,True,3516.81,32000
+293,Projet Renovation,Residential,"Moscow, Russia",1,26257,1,34,Basement,Wood,Stucco,Metal,central system gaz,Rigid_Copper_Pipe,508,False,3525.58,49000
+294,Projet Renovation,Industrial,"Saint-peterburg, Russia",6,36712,3,82,Basement,Steel,Siding,Tiles,central system gaz,ABS_Pipe,668,True,1951.94,109500
+295,Projet New building,Residential,"kazan, Russia",5,66675,8,44,Slab,Concrete,Brick,Shingles,central system gaz,PVC_Pipe,221,False,2799.61,81200
+296,Projet Renovation,Industrial,"kazan, Russia",6,19939,6,83,Basement,Steel,Brick,Shingles,central system electric,Flexi_Pipe,811,False,4379.8,122500
+297,Projet New building,Commercial,"Moscow, Russia",8,99998,6,58,Crawlspace,Wood,Brick,Shingles,central system gaz,Rigid_Copper_Pipe,822,False,2695.59,100000
+298,Projet Renovation,Commercial,"Ekaterinburg, Russia",7,35899,1,64,Slab,Concrete,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,612,True,3774.11,87200
+299,Projet Renovation,Commercial,"Tambov, Russia",5,71980,6,71,Basement,Concrete,Siding,Metal,central system electric,Flexi_Pipe,493,False,959.71,100200
+300,Projet Renovation,Commercial,"kazan, Russia",9,81569,7,48,Slab,Wood,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,259,True,2712.98,88000
+301,Projet Renovation,Commercial,"Tambov, Russia",9,78217,7,58,Crawlspace,Steel,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,989,False,2404.01,99000
+302,Projet New building,Industrial,"Saint-peterburg, Russia",8,76829,7,39,Crawlspace,Wood,Siding,Metal,central system gaz,ABS_Pipe,968,False,3309.08,81500
+303,Projet New building,Industrial,"Tambov, Russia",8,77721,6,81,Basement,Concrete,Stucco,Tiles,central system electric,PVC_Pipe,582,True,4249.6,117700
+304,Projet New building,Commercial,"kazan, Russia",9,25763,7,74,Basement,Wood,Siding,Metal,central system electric,Flexi_Pipe,580,True,4837.08,115000
+305,Projet New building,Commercial,"Saint-peterburg, Russia",7,96468,3,92,Crawlspace,Concrete,Siding,Tiles,central system gaz,PVC_Pipe,334,True,828.4,121200
+306,Projet Renovation,Residential,"Tambov, Russia",1,25957,9,44,Slab,Steel,Siding,Shingles,central system electric,Braided_Pipe,335,True,1521.77,83000
+307,Projet New building,Residential,"Moscow, Russia",1,93153,7,46,Slab,Steel,Brick,Shingles,central system electric,ABS_Pipe,426,True,187.15,80000
+308,Projet Renovation,Residential,"Ekaterinburg, Russia",10,44114,4,90,Slab,Wood,Brick,Metal,central system electric,Rigid_Copper_Pipe,121,False,2378.9,122500
+309,Projet New building,Industrial,"Moscow, Russia",6,99363,8,11,Crawlspace,Steel,Siding,Metal,central system gaz,PEX_Pipe,885,True,3523.96,55500
+310,Projet Renovation,Commercial,"Ekaterinburg, Russia",1,21454,2,71,Crawlspace,Steel,Siding,Shingles,central system electric,PEX_Pipe,962,False,727.56,91000
+311,Projet New building,Commercial,"Ekaterinburg, Russia",6,21593,7,93,Basement,Concrete,Siding,Shingles,central system gaz,Flexi_Pipe,525,True,762.71,134700
+312,Projet New building,Industrial,"Saint-peterburg, Russia",6,70215,4,51,Basement,Concrete,Stucco,Metal,central system electric,PVC_Pipe,770,True,4441.68,82200
+313,Projet New building,Commercial,"Ekaterinburg, Russia",6,17015,4,91,Slab,Steel,Stucco,Shingles,central system electric,Flexi_Pipe,384,True,573.67,123000
+314,Projet Renovation,Industrial,"Tambov, Russia",3,4216,4,56,Basement,Steel,Stucco,Tiles,central system electric,PVC_Pipe,828,False,592.33,78500
+315,Projet New building,Residential,"Saint-peterburg, Russia",7,78661,4,23,Basement,Concrete,Brick,Shingles,central system electric,Flexi_Pipe,144,False,1255.99,56700
+316,Projet Renovation,Commercial,"Moscow, Russia",3,33589,2,49,Basement,Wood,Stucco,Tiles,central system gaz,PVC_Pipe,477,True,539.36,66500
+317,Projet Renovation,Industrial,"kazan, Russia",3,39021,5,49,Slab,Wood,Siding,Tiles,central system gaz,PVC_Pipe,720,False,4310.64,75000
+318,Projet New building,Commercial,"Ekaterinburg, Russia",5,72522,7,90,Slab,Wood,Brick,Metal,central system electric,Rigid_Copper_Pipe,727,True,709.61,123500
+319,Projet New building,Commercial,"Tambov, Russia",4,58874,2,14,Slab,Concrete,Stucco,Shingles,central system electric,ABS_Pipe,721,False,3877.92,32200
+320,Projet New building,Commercial,"Moscow, Russia",1,60741,8,62,Slab,Concrete,Stucco,Shingles,central system gaz,PVC_Pipe,356,True,2622.86,98200
+321,Projet Renovation,Industrial,"Ekaterinburg, Russia",10,46841,2,80,Crawlspace,Concrete,Siding,Shingles,central system gaz,PVC_Pipe,273,False,4390.31,108200
+322,Projet New building,Commercial,"Saint-peterburg, Russia",2,65200,2,52,Crawlspace,Steel,Stucco,Shingles,central system gaz,PEX_Pipe,855,True,2222.59,72000
+323,Projet Renovation,Industrial,"Saint-peterburg, Russia",4,97497,2,93,Slab,Wood,Stucco,Metal,central system gaz,Braided_Pipe,990,False,3257.94,110500
+324,Projet New building,Residential,"Ekaterinburg, Russia",3,52946,3,69,Basement,Concrete,Stucco,Metal,central system gaz,Rigid_Copper_Pipe,836,True,3741.1,89200
+325,Projet Renovation,Industrial,"Ekaterinburg, Russia",10,42832,3,41,Crawlspace,Wood,Brick,Tiles,central system gaz,PVC_Pipe,832,True,297.0,72000
+326,Projet Renovation,Residential,"Ekaterinburg, Russia",6,76711,7,88,Basement,Wood,Siding,Shingles,central system electric,Flexi_Pipe,425,False,2592.13,130500
+327,Projet New building,Residential,"kazan, Russia",10,55979,5,53,Crawlspace,Concrete,Brick,Shingles,central system electric,Braided_Pipe,438,False,1918.66,91200
+328,Projet New building,Industrial,"Saint-peterburg, Russia",7,19863,1,100,Crawlspace,Concrete,Siding,Metal,central system electric,Rigid_Copper_Pipe,611,False,3132.45,123700
+329,Projet New building,Industrial,"Tambov, Russia",3,22234,2,38,Crawlspace,Concrete,Brick,Shingles,central system electric,ABS_Pipe,405,True,498.2,59200
+330,Projet New building,Commercial,"Moscow, Russia",6,22208,9,27,Crawlspace,Wood,Stucco,Shingles,central system gaz,PVC_Pipe,179,False,1226.61,77000
+331,Projet New building,Industrial,"Saint-peterburg, Russia",3,61561,10,78,Basement,Steel,Brick,Metal,central system gaz,PVC_Pipe,861,True,1959.76,120000
+332,Projet New building,Industrial,"Ekaterinburg, Russia",2,48155,8,46,Slab,Wood,Brick,Shingles,central system gaz,Braided_Pipe,946,True,2990.97,84000
+333,Projet New building,Residential,"Moscow, Russia",6,61775,10,41,Crawlspace,Wood,Brick,Tiles,central system electric,PEX_Pipe,562,False,4300.31,93000
+334,Projet New building,Industrial,"Moscow, Russia",8,69332,9,41,Basement,Concrete,Stucco,Shingles,central system electric,Flexi_Pipe,400,True,3253.17,88700
+335,Projet New building,Industrial,"Tambov, Russia",10,90013,9,45,Crawlspace,Concrete,Stucco,Metal,central system electric,Rigid_Copper_Pipe,740,True,1402.42,92700
+336,Projet New building,Industrial,"Tambov, Russia",3,98994,5,54,Slab,Steel,Stucco,Shingles,central system electric,PVC_Pipe,829,True,1630.23,81000
+337,Projet Renovation,Commercial,"Ekaterinburg, Russia",3,27051,1,68,Slab,Wood,Siding,Metal,central system electric,PVC_Pipe,833,True,2696.14,82500
+338,Projet Renovation,Industrial,"kazan, Russia",3,74071,8,46,Basement,Steel,Stucco,Metal,central system electric,Rigid_Copper_Pipe,538,True,4283.98,81000
+339,Projet Renovation,Industrial,"Tambov, Russia",10,50317,7,49,Slab,Concrete,Siding,Tiles,central system gaz,Flexi_Pipe,896,False,2383.99,88200
+340,Projet New building,Commercial,"kazan, Russia",10,38700,1,3,Slab,Steel,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,869,False,941.17,26000
+341,Projet Renovation,Residential,"Tambov, Russia",4,7468,3,59,Basement,Concrete,Stucco,Tiles,central system gaz,PVC_Pipe,573,True,3180.76,78700
+342,Projet New building,Residential,"Moscow, Russia",4,72269,5,80,Basement,Concrete,Stucco,Metal,central system gaz,Flexi_Pipe,939,True,3701.13,106200
+343,Projet New building,Industrial,"kazan, Russia",2,35550,1,96,Basement,Wood,Stucco,Shingles,central system gaz,ABS_Pipe,174,True,4041.54,112500
+344,Projet Renovation,Residential,"Moscow, Russia",1,49126,10,48,Basement,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,780,True,3749.02,90000
+345,Projet New building,Residential,"Moscow, Russia",6,74644,10,25,Crawlspace,Wood,Brick,Metal,central system electric,ABS_Pipe,395,False,921.02,77500
+346,Projet Renovation,Industrial,"Saint-peterburg, Russia",2,23789,5,43,Slab,Concrete,Stucco,Metal,central system electric,PVC_Pipe,220,False,3330.69,68700
+347,Projet Renovation,Commercial,"Moscow, Russia",3,97924,1,37,Basement,Steel,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,633,True,4933.23,52500
+348,Projet New building,Industrial,"Tambov, Russia",4,1750,3,89,Slab,Concrete,Brick,Metal,central system electric,Rigid_Copper_Pipe,371,True,4650.49,109700
+349,Projet Renovation,Commercial,"Saint-peterburg, Russia",1,38729,7,10,Basement,Steel,Siding,Tiles,central system gaz,PVC_Pipe,181,True,3155.08,41500
+350,Projet New building,Commercial,"Moscow, Russia",4,41278,2,9,Crawlspace,Steel,Brick,Tiles,central system gaz,ABS_Pipe,863,True,800.49,28000
+351,Projet Renovation,Commercial,"Saint-peterburg, Russia",4,92938,7,1,Slab,Steel,Siding,Metal,central system electric,Rigid_Copper_Pipe,141,True,3290.47,32500
+352,Projet New building,Commercial,"kazan, Russia",9,89041,7,17,Crawlspace,Steel,Siding,Metal,central system gaz,ABS_Pipe,144,False,3362.83,58500
+353,Projet Renovation,Residential,"Tambov, Russia",5,10112,6,80,Slab,Steel,Stucco,Shingles,central system gaz,ABS_Pipe,262,False,1968.94,110000
+354,Projet New building,Residential,"Moscow, Russia",4,55150,3,90,Crawlspace,Steel,Siding,Metal,central system gaz,Braided_Pipe,624,True,3618.91,111500
+355,Projet New building,Industrial,"Ekaterinburg, Russia",8,88945,5,10,Basement,Concrete,Siding,Shingles,central system gaz,ABS_Pipe,712,False,4471.99,45700
+356,Projet New building,Commercial,"Saint-peterburg, Russia",2,38031,7,65,Basement,Concrete,Brick,Tiles,central system gaz,PVC_Pipe,133,False,3726.06,97700
+357,Projet New building,Residential,"Tambov, Russia",7,39398,6,26,Slab,Wood,Siding,Tiles,central system electric,Braided_Pipe,623,False,1409.92,63000
+358,Projet Renovation,Industrial,"Ekaterinburg, Russia",10,71370,3,92,Slab,Wood,Brick,Metal,central system gaz,ABS_Pipe,881,True,3112.79,121500
+359,Projet Renovation,Residential,"Moscow, Russia",2,83934,4,28,Basement,Wood,Brick,Metal,central system gaz,Braided_Pipe,670,False,4138.82,53000
+360,Projet Renovation,Industrial,"Moscow, Russia",6,21026,7,36,Basement,Concrete,Brick,Shingles,central system electric,Flexi_Pipe,576,False,1385.31,78700
+361,Projet New building,Industrial,"Ekaterinburg, Russia",5,18887,7,69,Slab,Concrete,Siding,Tiles,central system gaz,Braided_Pipe,668,False,3147.54,100200
+362,Projet Renovation,Industrial,"Tambov, Russia",2,74692,3,65,Slab,Steel,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,498,False,4982.79,85000
+363,Projet New building,Commercial,"kazan, Russia",9,44871,3,29,Crawlspace,Steel,Stucco,Shingles,central system gaz,ABS_Pipe,748,True,2540.27,60000
+364,Projet Renovation,Commercial,"Ekaterinburg, Russia",9,7449,1,49,Crawlspace,Concrete,Siding,Metal,central system electric,PVC_Pipe,857,True,4216.99,72700
+365,Projet New building,Industrial,"Saint-peterburg, Russia",1,42241,6,95,Slab,Concrete,Brick,Tiles,central system electric,Rigid_Copper_Pipe,721,False,4550.98,124200
+366,Projet New building,Industrial,"Ekaterinburg, Russia",6,68705,10,27,Crawlspace,Concrete,Brick,Shingles,central system gaz,Flexi_Pipe,857,False,982.11,80200
+367,Projet New building,Industrial,"Saint-peterburg, Russia",2,76175,7,54,Slab,Concrete,Siding,Tiles,central system electric,Flexi_Pipe,600,True,1492.29,85200
+368,Projet New building,Industrial,"kazan, Russia",10,6957,2,66,Crawlspace,Steel,Brick,Shingles,central system gaz,PEX_Pipe,544,False,867.49,95000
+369,Projet New building,Residential,"kazan, Russia",5,90426,6,71,Basement,Wood,Siding,Shingles,central system electric,ABS_Pipe,279,True,469.98,102500
+370,Projet Renovation,Commercial,"Saint-peterburg, Russia",3,86926,9,26,Basement,Steel,Brick,Shingles,central system gaz,Flexi_Pipe,204,False,2855.65,66500
+371,Projet Renovation,Residential,"Saint-peterburg, Russia",8,45124,8,79,Slab,Wood,Brick,Shingles,central system gaz,Braided_Pipe,514,False,2063.21,125000
+372,Projet New building,Industrial,"Ekaterinburg, Russia",8,25581,3,76,Basement,Wood,Siding,Shingles,central system gaz,Flexi_Pipe,365,False,2596.93,106500
+373,Projet New building,Industrial,"Moscow, Russia",6,71184,6,12,Basement,Steel,Stucco,Metal,central system electric,Braided_Pipe,103,False,1445.69,49000
+374,Projet New building,Residential,"Saint-peterburg, Russia",6,4962,1,65,Slab,Wood,Brick,Metal,central system gaz,PVC_Pipe,978,True,4383.6,88500
+375,Projet Renovation,Commercial,"Moscow, Russia",1,79677,6,9,Crawlspace,Concrete,Stucco,Tiles,central system gaz,PVC_Pipe,554,True,138.79,39200
+376,Projet Renovation,Commercial,"kazan, Russia",1,14128,4,81,Basement,Steel,Siding,Tiles,central system gaz,Braided_Pipe,939,True,794.85,103500
+377,Projet Renovation,Commercial,"Ekaterinburg, Russia",1,17824,1,81,Slab,Wood,Brick,Tiles,central system electric,ABS_Pipe,375,False,3765.41,96000
+378,Projet New building,Residential,"Moscow, Russia",8,46856,6,26,Crawlspace,Wood,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,661,True,397.34,65000
+379,Projet New building,Industrial,"Ekaterinburg, Russia",3,45111,7,93,Slab,Wood,Siding,Metal,central system gaz,PVC_Pipe,881,True,3196.02,125500
+380,Projet Renovation,Industrial,"Saint-peterburg, Russia",7,30681,5,83,Basement,Concrete,Brick,Tiles,central system electric,PVC_Pipe,289,False,2811.78,117700
+381,Projet New building,Commercial,"Ekaterinburg, Russia",5,68498,4,29,Crawlspace,Steel,Brick,Metal,central system gaz,ABS_Pipe,389,False,882.22,54500
+382,Projet Renovation,Residential,"Tambov, Russia",6,55963,5,36,Crawlspace,Wood,Brick,Shingles,central system electric,Braided_Pipe,391,False,1390.27,75000
+383,Projet Renovation,Industrial,"Saint-peterburg, Russia",7,21882,2,52,Basement,Wood,Brick,Metal,central system electric,PEX_Pipe,254,False,2476.55,79000
+384,Projet Renovation,Residential,"Tambov, Russia",9,25190,8,77,Slab,Steel,Stucco,Shingles,central system gaz,Braided_Pipe,498,True,1252.36,121000
+385,Projet Renovation,Industrial,"Ekaterinburg, Russia",6,79266,8,62,Basement,Steel,Stucco,Tiles,central system electric,PVC_Pipe,355,True,585.3,104500
+386,Projet Renovation,Residential,"Moscow, Russia",1,38833,4,11,Crawlspace,Steel,Stucco,Shingles,central system electric,PEX_Pipe,114,True,3238.37,37000
+387,Projet New building,Industrial,"Moscow, Russia",7,22340,5,32,Slab,Concrete,Brick,Shingles,central system electric,PEX_Pipe,356,True,4980.28,68200
+388,Projet New building,Commercial,"Saint-peterburg, Russia",2,58748,9,51,Basement,Wood,Brick,Tiles,central system gaz,PEX_Pipe,253,False,2475.96,90500
+389,Projet Renovation,Residential,"Tambov, Russia",5,83302,5,70,Slab,Concrete,Siding,Tiles,central system electric,Flexi_Pipe,771,True,1751.27,95200
+390,Projet New building,Industrial,"Saint-peterburg, Russia",4,84245,8,79,Slab,Steel,Brick,Tiles,central system gaz,Braided_Pipe,523,False,3026.18,114000
+391,Projet New building,Industrial,"Ekaterinburg, Russia",7,29437,8,6,Basement,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,769,False,4098.92,52500
+392,Projet Renovation,Residential,"Tambov, Russia",3,72280,5,95,Basement,Concrete,Brick,Metal,central system gaz,Braided_Pipe,460,True,343.14,122200
+393,Projet New building,Industrial,"kazan, Russia",6,98094,3,96,Slab,Wood,Brick,Metal,central system electric,Rigid_Copper_Pipe,952,False,2604.98,125500
+394,Projet New building,Industrial,"Saint-peterburg, Russia",4,55540,1,95,Basement,Steel,Siding,Metal,central system electric,PVC_Pipe,920,False,4143.9,109000
+395,Projet New building,Industrial,"Saint-peterburg, Russia",7,47552,8,89,Basement,Steel,Siding,Metal,central system electric,Braided_Pipe,878,False,3022.2,132000
+396,Projet New building,Industrial,"Tambov, Russia",7,25316,7,84,Basement,Concrete,Siding,Tiles,central system electric,Rigid_Copper_Pipe,252,False,621.25,123700
+397,Projet Renovation,Industrial,"Tambov, Russia",4,91917,5,2,Basement,Wood,Stucco,Shingles,central system electric,PVC_Pipe,216,True,1365.94,30500
+398,Projet Renovation,Residential,"Tambov, Russia",3,87105,9,5,Basement,Concrete,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,738,True,3210.19,44700
+399,Projet New building,Residential,"Ekaterinburg, Russia",10,59350,1,71,Slab,Concrete,Siding,Shingles,central system gaz,Braided_Pipe,119,True,3638.87,94200
+400,Projet New building,Commercial,"kazan, Russia",2,75373,10,99,Crawlspace,Concrete,Siding,Shingles,central system gaz,Braided_Pipe,850,False,4175.21,143200
+401,Projet New building,Industrial,"Tambov, Russia",6,63515,6,21,Slab,Wood,Stucco,Tiles,central system gaz,Braided_Pipe,267,True,3665.99,58000
+402,Projet New building,Residential,"Moscow, Russia",10,45812,5,11,Basement,Steel,Stucco,Shingles,central system gaz,PVC_Pipe,741,True,3416.03,46500
+403,Projet New building,Residential,"Saint-peterburg, Russia",8,6790,7,81,Slab,Wood,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,250,False,4251.62,121000
+404,Projet New building,Residential,"Tambov, Russia",2,68524,2,14,Slab,Concrete,Siding,Tiles,central system electric,PVC_Pipe,888,True,1523.59,30200
+405,Projet New building,Commercial,"Saint-peterburg, Russia",8,19934,6,36,Slab,Concrete,Siding,Tiles,central system electric,Flexi_Pipe,101,False,2911.72,72200
+406,Projet New building,Commercial,"Ekaterinburg, Russia",9,84664,1,8,Slab,Concrete,Brick,Tiles,central system gaz,Braided_Pipe,513,True,4134.69,30200
+407,Projet Renovation,Industrial,"Ekaterinburg, Russia",6,61897,10,82,Crawlspace,Wood,Siding,Metal,central system gaz,Braided_Pipe,759,False,4623.28,133500
+408,Projet New building,Industrial,"Saint-peterburg, Russia",5,91686,4,23,Basement,Wood,Stucco,Metal,central system electric,PVC_Pipe,467,True,4903.56,47000
+409,Projet Renovation,Commercial,"Moscow, Russia",9,55942,10,96,Slab,Wood,Brick,Tiles,central system gaz,PEX_Pipe,143,True,2401.94,146000
+410,Projet Renovation,Industrial,"kazan, Russia",9,83868,6,27,Crawlspace,Concrete,Stucco,Tiles,central system electric,Flexi_Pipe,366,True,1365.09,65200
+411,Projet New building,Industrial,"Tambov, Russia",9,31988,5,51,Slab,Wood,Stucco,Metal,central system electric,Rigid_Copper_Pipe,686,True,2617.25,85500
+412,Projet Renovation,Commercial,"Ekaterinburg, Russia",10,34792,3,4,Crawlspace,Wood,Stucco,Tiles,central system gaz,Flexi_Pipe,574,True,1639.87,34000
+413,Projet New building,Commercial,"Saint-peterburg, Russia",4,64205,1,80,Basement,Wood,Siding,Shingles,central system electric,Rigid_Copper_Pipe,333,True,4858.43,96500
+414,Projet Renovation,Commercial,"Tambov, Russia",4,53702,9,4,Basement,Steel,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,228,False,2479.39,41500
+415,Projet Renovation,Industrial,"Saint-peterburg, Russia",10,92914,1,56,Slab,Steel,Brick,Metal,central system electric,ABS_Pipe,123,False,3715.29,78500
+416,Projet Renovation,Commercial,"Ekaterinburg, Russia",7,27103,8,87,Crawlspace,Concrete,Siding,Metal,central system electric,ABS_Pipe,665,True,2773.01,131700
+417,Projet New building,Industrial,"Saint-peterburg, Russia",3,40164,2,60,Crawlspace,Steel,Siding,Tiles,central system electric,Braided_Pipe,965,False,1829.31,78000
+418,Projet Renovation,Industrial,"Saint-peterburg, Russia",10,35702,2,54,Basement,Steel,Brick,Tiles,central system gaz,Flexi_Pipe,988,True,2927.86,79500
+419,Projet New building,Residential,"Saint-peterburg, Russia",4,22208,8,66,Basement,Wood,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,759,False,1287.76,103500
+420,Projet Renovation,Industrial,"Moscow, Russia",1,37900,6,84,Crawlspace,Wood,Siding,Metal,central system electric,PVC_Pipe,677,True,3127.65,115500
+421,Projet Renovation,Residential,"kazan, Russia",3,1447,1,98,Crawlspace,Wood,Stucco,Shingles,central system electric,ABS_Pipe,954,True,4792.63,116000
+422,Projet Renovation,Industrial,"kazan, Russia",2,9963,3,51,Basement,Steel,Siding,Metal,central system gaz,ABS_Pipe,987,True,3520.37,71000
+423,Projet Renovation,Commercial,"Moscow, Russia",5,3012,5,13,Crawlspace,Wood,Brick,Shingles,central system electric,Braided_Pipe,647,True,2333.9,44000
+424,Projet New building,Commercial,"Saint-peterburg, Russia",4,8398,1,82,Slab,Steel,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,465,True,3114.74,96000
+425,Projet Renovation,Industrial,"Ekaterinburg, Russia",5,23867,8,81,Slab,Concrete,Siding,Shingles,central system gaz,PEX_Pipe,603,False,2365.09,117200
+426,Projet New building,Residential,"Saint-peterburg, Russia",6,70036,4,12,Slab,Steel,Siding,Metal,central system electric,ABS_Pipe,839,False,3667.38,42500
+427,Projet New building,Commercial,"Moscow, Russia",4,94053,4,4,Slab,Wood,Brick,Tiles,central system electric,Rigid_Copper_Pipe,466,True,3957.82,28000
+428,Projet New building,Residential,"Ekaterinburg, Russia",7,54127,1,99,Basement,Wood,Stucco,Shingles,central system electric,ABS_Pipe,410,False,3207.38,123500
+429,Projet Renovation,Residential,"Ekaterinburg, Russia",9,50869,10,51,Crawlspace,Concrete,Brick,Shingles,central system electric,Rigid_Copper_Pipe,882,False,1366.84,104200
+430,Projet New building,Commercial,"Ekaterinburg, Russia",3,13472,7,92,Basement,Wood,Stucco,Shingles,central system gaz,ABS_Pipe,139,False,2200.65,126500
+431,Projet Renovation,Commercial,"Tambov, Russia",6,62444,10,92,Basement,Wood,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,869,True,1771.39,143500
+432,Projet New building,Commercial,"kazan, Russia",9,78223,10,82,Basement,Wood,Brick,Metal,central system gaz,Braided_Pipe,113,False,2263.05,133000
+433,Projet New building,Industrial,"Moscow, Russia",4,4569,8,77,Basement,Concrete,Brick,Tiles,central system gaz,PVC_Pipe,359,False,4909.27,112700
+434,Projet New building,Residential,"Ekaterinburg, Russia",9,4694,7,1,Basement,Steel,Brick,Metal,central system electric,Rigid_Copper_Pipe,595,True,4858.06,42000
+435,Projet Renovation,Commercial,"Tambov, Russia",6,29312,5,72,Basement,Steel,Brick,Tiles,central system electric,Flexi_Pipe,494,False,4669.83,106500
+436,Projet Renovation,Residential,"Saint-peterburg, Russia",6,92630,1,13,Crawlspace,Steel,Brick,Shingles,central system gaz,PVC_Pipe,529,False,3795.41,39000
+437,Projet Renovation,Industrial,"Saint-peterburg, Russia",2,84952,3,86,Crawlspace,Concrete,Stucco,Shingles,central system gaz,Braided_Pipe,260,False,680.16,109200
+438,Projet New building,Commercial,"Saint-peterburg, Russia",8,24083,5,63,Basement,Wood,Brick,Tiles,central system electric,ABS_Pipe,287,True,1080.15,98500
+439,Projet New building,Residential,"Moscow, Russia",10,33654,4,29,Slab,Concrete,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,951,True,4962.28,59200
+440,Projet New building,Industrial,"Moscow, Russia",9,79468,4,39,Crawlspace,Concrete,Brick,Tiles,central system electric,PEX_Pipe,107,True,4401.1,72200
+441,Projet Renovation,Residential,"Tambov, Russia",5,82801,4,100,Basement,Steel,Siding,Metal,central system electric,Rigid_Copper_Pipe,482,True,437.24,123000
+442,Projet Renovation,Commercial,"Ekaterinburg, Russia",9,42967,9,100,Crawlspace,Concrete,Brick,Metal,central system gaz,Braided_Pipe,154,False,1792.09,148700
+443,Projet New building,Residential,"Ekaterinburg, Russia",2,79757,2,87,Crawlspace,Steel,Brick,Shingles,central system gaz,Braided_Pipe,950,False,3221.56,108000
+444,Projet New building,Industrial,"Tambov, Russia",4,3611,1,94,Slab,Steel,Siding,Tiles,central system electric,PVC_Pipe,747,True,1684.33,107000
+445,Projet Renovation,Commercial,"Ekaterinburg, Russia",10,67924,5,8,Crawlspace,Steel,Brick,Tiles,central system electric,ABS_Pipe,936,True,452.46,44000
+446,Projet Renovation,Commercial,"Tambov, Russia",5,85752,1,56,Basement,Wood,Brick,Metal,central system gaz,PEX_Pipe,206,True,4596.79,72000
+447,Projet Renovation,Residential,"Ekaterinburg, Russia",2,81778,3,5,Slab,Steel,Stucco,Shingles,central system gaz,PEX_Pipe,571,True,1202.38,26000
+448,Projet Renovation,Commercial,"Moscow, Russia",3,18860,8,86,Crawlspace,Steel,Stucco,Shingles,central system gaz,Flexi_Pipe,879,True,2345.4,124000
+449,Projet New building,Industrial,"Ekaterinburg, Russia",9,39063,2,45,Basement,Concrete,Stucco,Shingles,central system electric,Flexi_Pipe,710,True,3804.3,71700
+450,Projet Renovation,Residential,"Ekaterinburg, Russia",7,72190,8,34,Basement,Wood,Brick,Shingles,central system gaz,Rigid_Copper_Pipe,759,True,3223.99,80500
+451,Projet New building,Industrial,"Saint-peterburg, Russia",2,70015,2,6,Basement,Wood,Brick,Metal,central system gaz,PEX_Pipe,421,True,3898.8,25000
+452,Projet Renovation,Residential,"Moscow, Russia",10,80100,1,37,Basement,Concrete,Siding,Metal,central system gaz,PVC_Pipe,333,True,3848.2,59200
+453,Projet New building,Industrial,"Moscow, Russia",6,95762,7,12,Basement,Steel,Brick,Metal,central system gaz,Rigid_Copper_Pipe,994,True,3227.55,53000
+454,Projet New building,Industrial,"Ekaterinburg, Russia",3,95053,6,31,Crawlspace,Wood,Stucco,Shingles,central system gaz,Flexi_Pipe,203,False,1552.35,64000
+455,Projet Renovation,Commercial,"Moscow, Russia",2,16033,5,25,Crawlspace,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,392,False,628.84,53500
+456,Projet Renovation,Commercial,"Ekaterinburg, Russia",1,65602,2,42,Basement,Wood,Stucco,Shingles,central system gaz,ABS_Pipe,261,False,3792.41,61500
+457,Projet New building,Industrial,"Tambov, Russia",9,48168,7,76,Slab,Steel,Siding,Tiles,central system electric,Flexi_Pipe,586,True,1103.49,115000
+458,Projet New building,Industrial,"Moscow, Russia",6,26025,2,89,Crawlspace,Steel,Brick,Metal,central system electric,PVC_Pipe,481,True,2670.63,116500
+459,Projet New building,Industrial,"Saint-peterburg, Russia",9,23899,1,41,Slab,Steel,Brick,Shingles,central system electric,Flexi_Pipe,354,False,513.89,65000
+460,Projet New building,Industrial,"Moscow, Russia",4,53521,7,6,Basement,Wood,Siding,Metal,central system electric,Flexi_Pipe,550,True,3216.53,39000
+461,Projet Renovation,Industrial,"Ekaterinburg, Russia",5,22889,6,92,Crawlspace,Steel,Siding,Tiles,central system gaz,Flexi_Pipe,600,True,2158.34,122000
+462,Projet New building,Commercial,"Saint-peterburg, Russia",8,28392,7,73,Basement,Wood,Stucco,Metal,central system electric,ABS_Pipe,376,False,2391.82,114000
+463,Projet Renovation,Commercial,"Tambov, Russia",1,7706,10,33,Slab,Concrete,Siding,Metal,central system gaz,Braided_Pipe,818,False,4739.86,73700
+464,Projet Renovation,Commercial,"Ekaterinburg, Russia",9,44178,5,14,Slab,Steel,Stucco,Metal,central system electric,ABS_Pipe,250,False,4280.22,47500
+465,Projet New building,Industrial,"Moscow, Russia",3,53939,7,70,Basement,Steel,Siding,Tiles,central system electric,PEX_Pipe,758,False,4274.06,101500
+466,Projet Renovation,Commercial,"Ekaterinburg, Russia",7,61395,10,24,Crawlspace,Concrete,Brick,Tiles,central system electric,Rigid_Copper_Pipe,277,True,430.09,75200
+467,Projet New building,Commercial,"Moscow, Russia",10,61072,8,19,Slab,Steel,Brick,Tiles,central system electric,Rigid_Copper_Pipe,681,False,4177.25,62000
+468,Projet New building,Industrial,"Tambov, Russia",3,47265,5,14,Basement,Wood,Siding,Tiles,central system electric,Braided_Pipe,689,True,2007.04,40500
+469,Projet Renovation,Residential,"kazan, Russia",10,3614,2,42,Crawlspace,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,552,False,4781.8,72000
+470,Projet New building,Commercial,"Tambov, Russia",5,10440,1,44,Crawlspace,Steel,Brick,Shingles,central system electric,Rigid_Copper_Pipe,444,False,701.78,62000
+471,Projet Renovation,Commercial,"Saint-peterburg, Russia",9,1468,6,32,Crawlspace,Steel,Brick,Metal,central system gaz,ABS_Pipe,805,True,3067.95,71500
+472,Projet Renovation,Industrial,"kazan, Russia",9,11475,10,100,Slab,Concrete,Brick,Metal,central system electric,Braided_Pipe,498,True,2949.46,149700
+473,Projet Renovation,Residential,"kazan, Russia",9,30380,3,16,Crawlspace,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,426,False,2052.04,46500
+474,Projet Renovation,Commercial,"Saint-peterburg, Russia",5,63144,7,85,Crawlspace,Steel,Brick,Tiles,central system gaz,Braided_Pipe,434,True,3563.0,119000
+475,Projet New building,Residential,"Tambov, Russia",9,41228,8,4,Slab,Wood,Brick,Metal,central system electric,PEX_Pipe,294,False,4896.38,48500
+476,Projet Renovation,Industrial,"kazan, Russia",6,37004,3,37,Basement,Steel,Brick,Metal,central system electric,ABS_Pipe,336,True,1854.93,66000
+477,Projet New building,Industrial,"Moscow, Russia",6,83771,2,10,Slab,Concrete,Siding,Shingles,central system gaz,Flexi_Pipe,590,True,3321.6,36200
+478,Projet New building,Industrial,"kazan, Russia",7,51593,1,48,Crawlspace,Steel,Stucco,Metal,central system gaz,ABS_Pipe,673,False,2720.45,71500
+479,Projet New building,Residential,"kazan, Russia",8,59174,1,78,Basement,Concrete,Stucco,Shingles,central system gaz,Flexi_Pipe,200,True,2856.77,101700
+480,Projet New building,Industrial,"Tambov, Russia",8,31998,5,29,Basement,Wood,Brick,Metal,central system gaz,Flexi_Pipe,763,True,4745.15,65000
+481,Projet New building,Residential,"Saint-peterburg, Russia",5,65174,9,64,Basement,Concrete,Brick,Shingles,central system gaz,PVC_Pipe,898,False,1743.2,104700
+482,Projet Renovation,Industrial,"kazan, Russia",10,87859,10,43,Crawlspace,Concrete,Siding,Shingles,central system electric,ABS_Pipe,418,False,3906.41,95200
+483,Projet Renovation,Commercial,"Moscow, Russia",1,83079,8,1,Slab,Steel,Siding,Shingles,central system gaz,PVC_Pipe,864,False,2918.95,37000
+484,Projet New building,Industrial,"Saint-peterburg, Russia",6,70140,4,34,Basement,Wood,Stucco,Tiles,central system gaz,PEX_Pipe,702,True,3461.04,65500
+485,Projet Renovation,Commercial,"Saint-peterburg, Russia",7,64385,3,32,Crawlspace,Steel,Brick,Shingles,central system electric,Rigid_Copper_Pipe,849,False,4163.94,64000
+486,Projet Renovation,Residential,"Saint-peterburg, Russia",7,9367,3,96,Basement,Concrete,Brick,Tiles,central system electric,ABS_Pipe,590,True,616.89,124700
+487,Projet Renovation,Residential,"Ekaterinburg, Russia",2,60789,10,42,Basement,Wood,Siding,Tiles,central system gaz,PEX_Pipe,354,False,1475.55,83500
+488,Projet New building,Residential,"kazan, Russia",3,81226,2,37,Basement,Concrete,Brick,Metal,central system electric,PVC_Pipe,432,False,2542.35,55200
+489,Projet New building,Industrial,"Moscow, Russia",4,45975,8,40,Crawlspace,Concrete,Stucco,Tiles,central system electric,ABS_Pipe,830,True,4634.01,76200
+490,Projet New building,Industrial,"Tambov, Russia",2,9777,4,11,Basement,Concrete,Siding,Shingles,central system electric,PVC_Pipe,461,True,2589.33,35700
+491,Projet New building,Commercial,"Saint-peterburg, Russia",2,40667,4,34,Basement,Steel,Stucco,Shingles,central system gaz,Flexi_Pipe,382,False,3417.65,58500
+492,Projet New building,Commercial,"Saint-peterburg, Russia",8,79935,9,82,Slab,Wood,Siding,Shingles,central system gaz,ABS_Pipe,431,True,1564.51,130000
+493,Projet Renovation,Commercial,"Saint-peterburg, Russia",10,81046,1,92,Slab,Wood,Siding,Shingles,central system electric,Braided_Pipe,763,False,4686.98,116000
+494,Projet New building,Industrial,"Ekaterinburg, Russia",10,57907,5,21,Slab,Wood,Siding,Metal,central system electric,PEX_Pipe,565,True,3479.35,55500
+495,Projet New building,Industrial,"Moscow, Russia",2,72282,10,84,Crawlspace,Steel,Stucco,Tiles,central system gaz,PVC_Pipe,581,False,214.71,126000
+496,Projet New building,Industrial,"Ekaterinburg, Russia",10,96117,2,65,Slab,Steel,Brick,Metal,central system electric,PEX_Pipe,485,False,1295.14,90500
+497,Projet Renovation,Commercial,"Tambov, Russia",4,37458,4,35,Slab,Wood,Siding,Metal,central system electric,Flexi_Pipe,325,False,572.26,58500
+498,Projet Renovation,Industrial,"Saint-peterburg, Russia",8,52919,9,62,Basement,Steel,Siding,Shingles,central system electric,Braided_Pipe,505,True,4097.61,109500
+499,Projet Renovation,Commercial,"kazan, Russia",9,61942,8,34,Slab,Concrete,Siding,Shingles,central system electric,PEX_Pipe,483,False,310.7,78200
+500,Projet New building,Residential,"Moscow, Russia",1,26341,5,10,Crawlspace,Wood,Brick,Shingles,central system electric,PVC_Pipe,847,True,3578.35,41000
+501,Projet Renovation,Industrial,"kazan, Russia",6,56917,6,17,Crawlspace,Wood,Brick,Metal,central system electric,PVC_Pipe,414,False,349.87,57500
+502,Projet Renovation,Residential,"Saint-peterburg, Russia",8,82641,1,15,Crawlspace,Wood,Siding,Tiles,central system gaz,Flexi_Pipe,241,True,873.05,39000
+503,Projet New building,Commercial,"Tambov, Russia",10,51529,7,25,Crawlspace,Wood,Brick,Tiles,central system gaz,Flexi_Pipe,920,True,3136.79,68000
+504,Projet Renovation,Residential,"Moscow, Russia",1,70264,1,29,Slab,Steel,Brick,Shingles,central system gaz,PEX_Pipe,618,True,3146.71,45000
+505,Projet New building,Industrial,"kazan, Russia",5,54708,7,87,Crawlspace,Wood,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,956,False,4033.91,122000
+506,Projet Renovation,Residential,"Ekaterinburg, Russia",8,57769,1,28,Basement,Concrete,Brick,Shingles,central system gaz,PVC_Pipe,536,False,4942.54,52700
+507,Projet Renovation,Residential,"Saint-peterburg, Russia",2,77976,8,55,Basement,Steel,Brick,Metal,central system electric,Rigid_Copper_Pipe,919,True,558.03,91000
+508,Projet Renovation,Commercial,"Ekaterinburg, Russia",8,29499,5,96,Crawlspace,Steel,Brick,Tiles,central system electric,ABS_Pipe,339,True,3906.72,132000
+509,Projet New building,Commercial,"Tambov, Russia",3,21304,7,18,Slab,Steel,Siding,Metal,central system electric,Braided_Pipe,165,False,3824.84,49500
+510,Projet New building,Residential,"Ekaterinburg, Russia",3,90501,9,36,Basement,Steel,Brick,Metal,central system electric,PEX_Pipe,737,True,440.52,75000
+511,Projet Renovation,Industrial,"Moscow, Russia",5,23814,6,60,Crawlspace,Wood,Brick,Tiles,central system electric,Braided_Pipe,858,True,2683.52,92000
+512,Projet New building,Residential,"Saint-peterburg, Russia",1,60060,5,33,Basement,Steel,Brick,Shingles,central system gaz,PVC_Pipe,890,False,4095.58,61500
+513,Projet Renovation,Industrial,"Moscow, Russia",3,45872,8,75,Crawlspace,Steel,Siding,Metal,central system gaz,Rigid_Copper_Pipe,873,False,521.86,111500
+514,Projet New building,Industrial,"Moscow, Russia",7,69578,2,100,Basement,Steel,Brick,Shingles,central system electric,PEX_Pipe,566,True,4355.87,127500
+515,Projet Renovation,Commercial,"Ekaterinburg, Russia",5,23202,9,6,Crawlspace,Concrete,Brick,Metal,central system gaz,Rigid_Copper_Pipe,213,True,3962.89,46700
+516,Projet New building,Industrial,"Moscow, Russia",5,98008,6,25,Slab,Wood,Siding,Metal,central system electric,PVC_Pipe,606,False,2169.68,54500
+517,Projet New building,Commercial,"Ekaterinburg, Russia",3,83200,3,89,Basement,Steel,Stucco,Shingles,central system electric,ABS_Pipe,990,False,3879.71,110500
+518,Projet New building,Commercial,"Saint-peterburg, Russia",3,36583,5,41,Basement,Concrete,Siding,Tiles,central system electric,Rigid_Copper_Pipe,295,False,4000.73,66700
+519,Projet New building,Residential,"kazan, Russia",10,47201,6,82,Crawlspace,Steel,Siding,Shingles,central system electric,ABS_Pipe,445,False,1912.97,122000
+520,Projet New building,Commercial,"kazan, Russia",7,74563,9,40,Crawlspace,Wood,Siding,Shingles,central system electric,Rigid_Copper_Pipe,983,True,2452.56,90000
+521,Projet New building,Industrial,"Saint-peterburg, Russia",6,18456,3,76,Basement,Wood,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,983,True,4371.24,104500
+522,Projet Renovation,Industrial,"Ekaterinburg, Russia",8,6660,5,71,Basement,Steel,Brick,Metal,central system electric,Braided_Pipe,945,True,3846.31,106000
+523,Projet Renovation,Residential,"Moscow, Russia",4,42892,5,30,Basement,Steel,Brick,Shingles,central system gaz,Flexi_Pipe,913,True,4780.32,58500
+524,Projet Renovation,Residential,"Moscow, Russia",8,36549,2,47,Basement,Steel,Stucco,Tiles,central system gaz,Rigid_Copper_Pipe,652,False,2121.31,71500
+525,Projet New building,Industrial,"Moscow, Russia",10,61123,4,19,Crawlspace,Wood,Brick,Metal,central system electric,ABS_Pipe,892,False,3170.63,53500
+526,Projet Renovation,Residential,"Saint-peterburg, Russia",3,26617,8,48,Basement,Wood,Stucco,Shingles,central system electric,PEX_Pipe,515,True,517.33,85500
+527,Projet Renovation,Commercial,"Moscow, Russia",5,41423,3,18,Slab,Wood,Siding,Tiles,central system electric,PEX_Pipe,913,False,3767.74,38000
+528,Projet Renovation,Residential,"kazan, Russia",7,77123,6,61,Basement,Wood,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,364,False,1823.63,100500
+529,Projet Renovation,Industrial,"Ekaterinburg, Russia",9,30097,1,16,Slab,Concrete,Siding,Metal,central system electric,Braided_Pipe,460,True,3210.09,37700
+530,Projet Renovation,Industrial,"Saint-peterburg, Russia",8,26213,5,32,Basement,Concrete,Stucco,Shingles,central system gaz,Braided_Pipe,836,True,3832.25,67700
+531,Projet New building,Industrial,"Saint-peterburg, Russia",3,47272,2,32,Slab,Steel,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,821,False,1494.73,48000
+532,Projet Renovation,Residential,"kazan, Russia",6,28283,7,43,Crawlspace,Wood,Brick,Tiles,central system gaz,Braided_Pipe,114,False,3313.45,86000
+533,Projet Renovation,Commercial,"Moscow, Russia",4,60377,7,31,Slab,Steel,Siding,Tiles,central system gaz,PVC_Pipe,661,True,3247.82,62000
+534,Projet Renovation,Residential,"kazan, Russia",1,12317,10,35,Basement,Steel,Stucco,Shingles,central system electric,PEX_Pipe,802,False,1534.68,77500
+535,Projet Renovation,Industrial,"Saint-peterburg, Russia",4,27925,3,4,Slab,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,577,True,548.55,23200
+536,Projet Renovation,Commercial,"Moscow, Russia",10,15754,4,50,Basement,Steel,Brick,Metal,central system electric,Flexi_Pipe,889,False,1088.95,82000
+537,Projet New building,Industrial,"Tambov, Russia",9,18057,3,30,Basement,Wood,Stucco,Tiles,central system electric,PVC_Pipe,413,False,418.09,58500
+538,Projet New building,Industrial,"Ekaterinburg, Russia",3,70569,9,43,Slab,Steel,Brick,Metal,central system electric,Braided_Pipe,257,True,701.5,81500
+539,Projet New building,Commercial,"Ekaterinburg, Russia",8,12969,10,94,Slab,Wood,Brick,Metal,central system electric,Flexi_Pipe,153,False,1926.07,144500
+540,Projet New building,Industrial,"Saint-peterburg, Russia",4,16691,9,98,Slab,Steel,Siding,Tiles,central system electric,Braided_Pipe,833,False,3589.37,135000
+541,Projet Renovation,Commercial,"Tambov, Russia",7,77137,3,18,Slab,Steel,Brick,Shingles,central system gaz,Flexi_Pipe,527,False,4421.67,48000
+542,Projet Renovation,Commercial,"Ekaterinburg, Russia",2,30022,1,95,Slab,Concrete,Stucco,Metal,central system electric,Flexi_Pipe,470,False,4554.88,108700
+543,Projet New building,Commercial,"Moscow, Russia",9,32139,4,76,Slab,Wood,Stucco,Metal,central system electric,PVC_Pipe,159,True,1685.38,107500
+544,Projet Renovation,Commercial,"Saint-peterburg, Russia",10,65315,9,92,Crawlspace,Wood,Brick,Metal,central system electric,ABS_Pipe,198,True,572.91,141500
+545,Projet New building,Commercial,"Tambov, Russia",8,8871,9,83,Basement,Wood,Siding,Metal,central system electric,PEX_Pipe,714,False,3191.77,130000
+546,Projet New building,Residential,"Tambov, Russia",6,40129,9,9,Crawlspace,Wood,Brick,Tiles,central system electric,PEX_Pipe,869,True,3929.57,58000
+547,Projet New building,Residential,"Tambov, Russia",6,31506,10,24,Crawlspace,Wood,Siding,Metal,central system gaz,Braided_Pipe,567,False,4261.25,75500
+548,Projet Renovation,Industrial,"kazan, Russia",10,19050,3,11,Crawlspace,Steel,Stucco,Tiles,central system electric,PVC_Pipe,578,False,2400.97,40000
+549,Projet Renovation,Industrial,"Tambov, Russia",1,91634,4,98,Slab,Concrete,Stucco,Metal,central system gaz,Braided_Pipe,920,False,426.36,120700
+550,Projet New building,Residential,"Moscow, Russia",5,33881,6,92,Crawlspace,Concrete,Siding,Metal,central system electric,PVC_Pipe,457,True,1115.49,122700
+551,Projet New building,Industrial,"kazan, Russia",1,11848,6,81,Basement,Steel,Brick,Metal,central system gaz,PEX_Pipe,882,False,1279.31,111000
+552,Projet New building,Residential,"Saint-peterburg, Russia",4,31619,1,72,Crawlspace,Steel,Stucco,Tiles,central system electric,Flexi_Pipe,255,False,1012.89,87000
+553,Projet New building,Industrial,"Saint-peterburg, Russia",8,5973,7,97,Crawlspace,Wood,Brick,Tiles,central system gaz,Flexi_Pipe,653,False,1400.64,140000
+554,Projet New building,Commercial,"Moscow, Russia",8,65760,1,9,Slab,Concrete,Stucco,Metal,central system gaz,Rigid_Copper_Pipe,761,False,4891.34,30700
+555,Projet New building,Industrial,"Saint-peterburg, Russia",4,50417,3,79,Crawlspace,Wood,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,711,False,4966.3,103000
+556,Projet New building,Industrial,"Ekaterinburg, Russia",6,63688,5,28,Crawlspace,Steel,Stucco,Metal,central system electric,ABS_Pipe,337,False,3905.84,63500
+557,Projet New building,Commercial,"Ekaterinburg, Russia",1,10316,7,81,Slab,Steel,Stucco,Metal,central system electric,Flexi_Pipe,863,True,829.09,112500
+558,Projet New building,Residential,"Tambov, Russia",10,65738,3,22,Slab,Steel,Siding,Shingles,central system gaz,PEX_Pipe,998,True,2379.46,51000
+559,Projet New building,Residential,"kazan, Russia",1,70888,7,100,Crawlspace,Concrete,Siding,Shingles,central system electric,Flexi_Pipe,528,True,2002.47,135200
+560,Projet New building,Residential,"Tambov, Russia",1,56307,10,97,Crawlspace,Wood,Stucco,Tiles,central system gaz,PEX_Pipe,765,False,1225.23,140000
+561,Projet Renovation,Commercial,"Moscow, Russia",6,17141,10,92,Slab,Steel,Siding,Metal,central system electric,Flexi_Pipe,751,False,730.99,140500
+562,Projet Renovation,Industrial,"Ekaterinburg, Russia",7,10550,3,65,Slab,Concrete,Brick,Tiles,central system electric,ABS_Pipe,191,True,1766.5,93200
+563,Projet Renovation,Industrial,"Tambov, Russia",10,21391,5,88,Basement,Steel,Stucco,Metal,central system electric,Rigid_Copper_Pipe,430,False,2772.81,122000
+564,Projet New building,Residential,"Tambov, Russia",2,11034,4,21,Crawlspace,Wood,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,488,True,2916.97,46000
+565,Projet Renovation,Industrial,"Moscow, Russia",4,26898,5,69,Basement,Wood,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,240,True,253.69,95500
+566,Projet Renovation,Commercial,"Saint-peterburg, Russia",8,20170,5,37,Crawlspace,Concrete,Siding,Tiles,central system electric,PVC_Pipe,483,False,1516.11,72200
+567,Projet Renovation,Residential,"Ekaterinburg, Russia",9,69826,10,61,Slab,Wood,Brick,Shingles,central system electric,Flexi_Pipe,214,False,1054.75,113000
+568,Projet New building,Commercial,"Tambov, Russia",1,69589,5,100,Slab,Wood,Stucco,Metal,central system electric,PEX_Pipe,951,False,823.42,126500
+569,Projet New building,Commercial,"Tambov, Russia",2,52554,9,91,Slab,Concrete,Stucco,Tiles,central system electric,Braided_Pipe,798,False,2134.59,128200
+570,Projet New building,Industrial,"Moscow, Russia",3,81180,1,16,Basement,Steel,Stucco,Metal,central system electric,Braided_Pipe,956,True,4012.21,30000
+571,Projet Renovation,Industrial,"Saint-peterburg, Russia",2,6800,3,45,Crawlspace,Concrete,Siding,Tiles,central system electric,PEX_Pipe,924,True,2411.81,66200
+572,Projet New building,Commercial,"Saint-peterburg, Russia",5,20269,5,31,Slab,Concrete,Siding,Tiles,central system gaz,PEX_Pipe,983,False,1934.3,56200
+573,Projet Renovation,Commercial,"Moscow, Russia",1,25302,9,93,Crawlspace,Concrete,Brick,Shingles,central system electric,PVC_Pipe,695,False,1318.8,135200
+574,Projet New building,Industrial,"Moscow, Russia",7,72471,4,31,Slab,Concrete,Stucco,Metal,central system electric,ABS_Pipe,437,True,4305.91,61700
+575,Projet New building,Residential,"Tambov, Russia",10,23873,9,78,Slab,Wood,Brick,Tiles,central system gaz,PVC_Pipe,154,True,3449.42,125000
+576,Projet Renovation,Industrial,"Saint-peterburg, Russia",5,91000,8,65,Basement,Wood,Brick,Shingles,central system gaz,PVC_Pipe,500,True,3930.87,103500
+577,Projet New building,Industrial,"Moscow, Russia",6,78169,2,43,Basement,Steel,Siding,Metal,central system electric,Braided_Pipe,720,True,1126.94,68000
+578,Projet Renovation,Industrial,"Moscow, Russia",5,52424,10,52,Slab,Concrete,Brick,Metal,central system electric,PEX_Pipe,603,False,2971.21,93700
+579,Projet New building,Residential,"Ekaterinburg, Russia",1,83762,5,90,Basement,Concrete,Stucco,Metal,central system electric,PVC_Pipe,186,True,2829.13,116200
+580,Projet Renovation,Residential,"kazan, Russia",9,73446,10,100,Basement,Steel,Brick,Tiles,central system electric,ABS_Pipe,715,True,2677.37,149500
+581,Projet Renovation,Industrial,"Saint-peterburg, Russia",4,2014,7,81,Slab,Steel,Stucco,Metal,central system electric,Braided_Pipe,999,True,4201.42,112500
+582,Projet Renovation,Industrial,"Moscow, Russia",6,56324,9,45,Basement,Steel,Brick,Tiles,central system gaz,Braided_Pipe,635,True,2509.23,91500
+583,Projet Renovation,Industrial,"Moscow, Russia",1,92728,10,82,Basement,Wood,Siding,Shingles,central system electric,Flexi_Pipe,960,False,1239.45,125500
+584,Projet New building,Residential,"Ekaterinburg, Russia",4,15281,5,59,Basement,Wood,Brick,Tiles,central system gaz,ABS_Pipe,614,False,1065.85,86500
+585,Projet New building,Commercial,"kazan, Russia",5,99560,1,88,Slab,Wood,Siding,Metal,central system electric,PVC_Pipe,255,True,2421.65,102500
+586,Projet Renovation,Commercial,"kazan, Russia",5,21989,5,85,Basement,Concrete,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,896,True,339.61,112700
+587,Projet Renovation,Commercial,"Moscow, Russia",10,37101,4,81,Crawlspace,Wood,Brick,Shingles,central system electric,ABS_Pipe,370,False,4017.26,117000
+588,Projet Renovation,Residential,"Moscow, Russia",4,5616,5,38,Basement,Steel,Siding,Tiles,central system gaz,PEX_Pipe,373,True,4972.04,63500
+589,Projet Renovation,Commercial,"kazan, Russia",4,24147,1,35,Crawlspace,Wood,Stucco,Tiles,central system electric,Braided_Pipe,602,True,1105.45,51000
+590,Projet New building,Industrial,"Moscow, Russia",9,16477,10,97,Crawlspace,Concrete,Brick,Tiles,central system gaz,PEX_Pipe,682,True,616.25,148200
+591,Projet New building,Industrial,"Saint-peterburg, Russia",9,91933,3,8,Basement,Concrete,Stucco,Tiles,central system gaz,Rigid_Copper_Pipe,247,True,444.12,35700
+592,Projet Renovation,Industrial,"Moscow, Russia",6,41788,1,17,Crawlspace,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,660,True,4504.82,44000
+593,Projet Renovation,Commercial,"Ekaterinburg, Russia",3,20614,8,17,Slab,Steel,Brick,Tiles,central system electric,Flexi_Pipe,431,False,4621.07,52000
+594,Projet New building,Residential,"Ekaterinburg, Russia",9,45668,10,11,Slab,Steel,Stucco,Metal,central system electric,Flexi_Pipe,451,False,4320.96,59500
+595,Projet Renovation,Commercial,"Moscow, Russia",10,73966,3,80,Basement,Steel,Brick,Tiles,central system electric,ABS_Pipe,914,True,2826.12,108500
+596,Projet Renovation,Residential,"Moscow, Russia",8,26615,6,56,Crawlspace,Steel,Siding,Shingles,central system gaz,PEX_Pipe,358,False,1237.1,96000
+597,Projet Renovation,Commercial,"Tambov, Russia",8,45295,4,85,Basement,Concrete,Siding,Metal,central system electric,Braided_Pipe,304,False,4254.36,116200
+598,Projet New building,Commercial,"Ekaterinburg, Russia",1,84845,2,63,Basement,Concrete,Siding,Metal,central system gaz,Rigid_Copper_Pipe,835,True,2574.57,80200
+599,Projet Renovation,Commercial,"Tambov, Russia",1,33834,5,11,Basement,Steel,Stucco,Tiles,central system electric,PEX_Pipe,135,False,1330.51,36500
+600,Projet New building,Industrial,"kazan, Russia",6,66673,5,77,Crawlspace,Wood,Stucco,Metal,central system gaz,Flexi_Pipe,755,False,3879.7,113500
+601,Projet New building,Industrial,"Moscow, Russia",2,19460,5,39,Crawlspace,Wood,Stucco,Metal,central system electric,PVC_Pipe,390,True,1055.04,67500
+602,Projet Renovation,Commercial,"Saint-peterburg, Russia",10,31647,10,46,Crawlspace,Wood,Brick,Shingles,central system electric,Flexi_Pipe,591,False,3796.25,100000
+603,Projet New building,Commercial,"kazan, Russia",6,39825,7,44,Basement,Concrete,Siding,Tiles,central system electric,PVC_Pipe,856,True,835.72,83700
+604,Projet New building,Industrial,"Saint-peterburg, Russia",3,89098,1,74,Basement,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,945,True,907.97,87700
+605,Projet Renovation,Commercial,"Ekaterinburg, Russia",9,85448,1,96,Crawlspace,Wood,Siding,Tiles,central system electric,PEX_Pipe,707,True,1450.85,120000
+606,Projet Renovation,Residential,"Moscow, Russia",8,2896,6,44,Basement,Steel,Siding,Tiles,central system gaz,Braided_Pipe,608,True,2401.56,80500
+607,Projet New building,Industrial,"Moscow, Russia",4,13999,7,75,Basement,Concrete,Brick,Tiles,central system gaz,PEX_Pipe,409,True,1205.54,107700
+608,Projet Renovation,Commercial,"kazan, Russia",9,74258,8,37,Basement,Wood,Siding,Tiles,central system gaz,PEX_Pipe,607,False,4230.42,80500
+609,Projet New building,Commercial,"Moscow, Russia",7,83376,9,11,Basement,Wood,Stucco,Tiles,central system gaz,PEX_Pipe,381,True,366.22,57500
+610,Projet Renovation,Commercial,"Saint-peterburg, Russia",7,22584,9,88,Slab,Concrete,Stucco,Tiles,central system gaz,ABS_Pipe,172,True,2460.99,133200
+611,Projet Renovation,Industrial,"Saint-peterburg, Russia",6,96175,10,11,Crawlspace,Steel,Brick,Metal,central system electric,Flexi_Pipe,167,True,368.61,62500
+612,Projet Renovation,Residential,"Saint-peterburg, Russia",3,5323,8,8,Basement,Steel,Siding,Tiles,central system gaz,ABS_Pipe,545,False,3564.49,42500
+613,Projet New building,Residential,"Moscow, Russia",5,98905,7,21,Basement,Concrete,Stucco,Tiles,central system gaz,Rigid_Copper_Pipe,175,True,3418.64,52700
+614,Projet New building,Industrial,"kazan, Russia",6,49826,8,76,Slab,Steel,Brick,Tiles,central system electric,PVC_Pipe,690,False,304.74,119000
+615,Projet Renovation,Industrial,"Ekaterinburg, Russia",8,78826,4,36,Crawlspace,Wood,Brick,Shingles,central system electric,PVC_Pipe,213,True,1536.47,72000
+616,Projet New building,Residential,"Saint-peterburg, Russia",7,6820,3,22,Basement,Wood,Brick,Metal,central system electric,ABS_Pipe,465,True,1159.82,52000
+617,Projet Renovation,Industrial,"Moscow, Russia",3,93430,7,31,Crawlspace,Wood,Brick,Shingles,central system gaz,PVC_Pipe,696,False,2281.08,68000
+618,Projet Renovation,Industrial,"Moscow, Russia",9,41512,8,100,Crawlspace,Wood,Stucco,Shingles,central system electric,PVC_Pipe,746,True,4791.1,147000
+619,Projet Renovation,Industrial,"kazan, Russia",2,9160,1,20,Slab,Steel,Siding,Metal,central system gaz,Rigid_Copper_Pipe,100,False,3048.58,33500
+620,Projet Renovation,Industrial,"Tambov, Russia",9,90884,8,92,Basement,Concrete,Siding,Metal,central system gaz,PVC_Pipe,272,False,194.04,135200
+621,Projet Renovation,Residential,"Ekaterinburg, Russia",10,43887,10,56,Slab,Wood,Brick,Metal,central system electric,PVC_Pipe,831,False,3776.69,106500
+622,Projet Renovation,Residential,"Ekaterinburg, Russia",1,49452,9,37,Crawlspace,Wood,Brick,Tiles,central system electric,Braided_Pipe,354,False,2139.05,78000
+623,Projet Renovation,Commercial,"Saint-peterburg, Russia",7,77083,9,30,Crawlspace,Concrete,Brick,Metal,central system gaz,PEX_Pipe,449,False,1370.62,78700
+624,Projet New building,Industrial,"Tambov, Russia",6,28963,7,50,Basement,Wood,Siding,Shingles,central system electric,PVC_Pipe,291,False,2237.18,92500
+625,Projet Renovation,Residential,"kazan, Russia",2,49717,2,39,Crawlspace,Concrete,Stucco,Shingles,central system gaz,Flexi_Pipe,542,False,2913.26,59200
+626,Projet Renovation,Residential,"Moscow, Russia",10,14175,2,8,Slab,Concrete,Stucco,Tiles,central system gaz,PEX_Pipe,271,True,1446.68,32200
+627,Projet Renovation,Commercial,"kazan, Russia",4,20089,6,8,Slab,Wood,Stucco,Tiles,central system electric,Flexi_Pipe,608,False,4637.51,37000
+628,Projet New building,Industrial,"Saint-peterburg, Russia",10,47945,8,69,Basement,Steel,Stucco,Metal,central system electric,Braided_Pipe,318,True,2946.75,112000
+629,Projet New building,Commercial,"kazan, Russia",3,9299,10,6,Slab,Steel,Siding,Tiles,central system gaz,ABS_Pipe,372,True,3975.06,46000
+630,Projet New building,Commercial,"Ekaterinburg, Russia",7,63170,1,19,Basement,Wood,Brick,Tiles,central system electric,PEX_Pipe,947,False,4290.89,42500
+631,Projet New building,Industrial,"Tambov, Russia",6,74176,10,17,Crawlspace,Wood,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,411,False,4594.32,70000
+632,Projet Renovation,Industrial,"Tambov, Russia",1,71428,7,13,Slab,Concrete,Brick,Shingles,central system gaz,ABS_Pipe,992,True,4923.6,47200
+633,Projet New building,Residential,"Ekaterinburg, Russia",6,13205,10,18,Slab,Concrete,Siding,Metal,central system gaz,PEX_Pipe,675,False,2034.34,66700
+634,Projet Renovation,Industrial,"Saint-peterburg, Russia",4,89569,5,17,Basement,Concrete,Brick,Shingles,central system electric,ABS_Pipe,867,False,2401.72,45700
+635,Projet Renovation,Residential,"Moscow, Russia",5,24480,1,40,Crawlspace,Wood,Siding,Tiles,central system gaz,PVC_Pipe,326,True,1426.03,56000
+636,Projet New building,Industrial,"Saint-peterburg, Russia",3,44306,1,77,Slab,Concrete,Stucco,Tiles,central system electric,Flexi_Pipe,678,True,1182.71,90200
+637,Projet Renovation,Residential,"Ekaterinburg, Russia",8,30300,9,66,Slab,Concrete,Siding,Shingles,central system electric,ABS_Pipe,688,False,128.27,113200
+638,Projet Renovation,Residential,"Saint-peterburg, Russia",10,46223,5,84,Basement,Steel,Siding,Metal,central system gaz,ABS_Pipe,805,False,3543.94,118000
+639,Projet New building,Industrial,"Ekaterinburg, Russia",6,54211,9,28,Slab,Concrete,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,237,False,3394.62,73200
+640,Projet Renovation,Commercial,"Tambov, Russia",10,77005,5,16,Crawlspace,Steel,Brick,Tiles,central system electric,PVC_Pipe,140,True,247.82,52000
+641,Projet Renovation,Industrial,"Ekaterinburg, Russia",10,94759,2,65,Slab,Steel,Brick,Shingles,central system gaz,PEX_Pipe,711,False,3575.73,92000
+642,Projet Renovation,Residential,"kazan, Russia",7,44922,4,74,Slab,Wood,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,395,False,2039.59,107000
+643,Projet Renovation,Commercial,"Moscow, Russia",8,49890,6,28,Crawlspace,Steel,Brick,Shingles,central system electric,Rigid_Copper_Pipe,676,False,819.53,69000
+644,Projet Renovation,Industrial,"Ekaterinburg, Russia",1,9212,3,20,Crawlspace,Concrete,Brick,Shingles,central system electric,Rigid_Copper_Pipe,738,False,4398.95,44200
+645,Projet Renovation,Industrial,"Moscow, Russia",1,64988,8,19,Crawlspace,Concrete,Siding,Shingles,central system electric,PVC_Pipe,654,True,4944.24,57200
+646,Projet New building,Residential,"Saint-peterburg, Russia",5,83754,10,70,Slab,Concrete,Stucco,Metal,central system electric,Flexi_Pipe,642,True,4653.35,110700
+647,Projet Renovation,Industrial,"Ekaterinburg, Russia",6,62702,1,32,Basement,Wood,Siding,Shingles,central system gaz,PVC_Pipe,546,True,3776.37,56500
+648,Projet New building,Industrial,"Saint-peterburg, Russia",3,17290,10,61,Slab,Wood,Siding,Tiles,central system gaz,Braided_Pipe,571,False,3100.11,102000
+649,Projet New building,Industrial,"Ekaterinburg, Russia",10,57659,2,25,Crawlspace,Steel,Brick,Metal,central system gaz,PEX_Pipe,235,True,2884.24,52500
+650,Projet Renovation,Industrial,"Tambov, Russia",8,38801,6,4,Slab,Wood,Stucco,Metal,central system gaz,Flexi_Pipe,766,True,2417.71,41500
+651,Projet New building,Commercial,"Moscow, Russia",10,94006,6,46,Basement,Concrete,Siding,Tiles,central system electric,Rigid_Copper_Pipe,726,False,1397.61,82700
+652,Projet Renovation,Industrial,"Saint-peterburg, Russia",9,24931,1,64,Crawlspace,Concrete,Siding,Tiles,central system electric,Flexi_Pipe,516,True,3806.45,87200
+653,Projet Renovation,Residential,"Moscow, Russia",9,33332,3,17,Basement,Steel,Brick,Metal,central system gaz,Rigid_Copper_Pipe,482,False,318.59,46000
+654,Projet Renovation,Residential,"Tambov, Russia",8,70623,5,8,Crawlspace,Wood,Stucco,Tiles,central system electric,Braided_Pipe,728,False,3571.8,44000
+655,Projet New building,Residential,"kazan, Russia",9,96546,10,11,Slab,Steel,Siding,Tiles,central system gaz,Flexi_Pipe,258,True,125.7,59000
+656,Projet Renovation,Commercial,"Ekaterinburg, Russia",4,46285,9,50,Basement,Steel,Stucco,Shingles,central system electric,PEX_Pipe,978,True,1633.68,89500
+657,Projet Renovation,Industrial,"kazan, Russia",9,2970,2,69,Slab,Concrete,Brick,Shingles,central system gaz,ABS_Pipe,714,False,1696.6,96200
+658,Projet Renovation,Residential,"Saint-peterburg, Russia",3,37146,6,92,Crawlspace,Wood,Stucco,Metal,central system electric,Braided_Pipe,845,False,2117.32,123500
+659,Projet Renovation,Commercial,"Moscow, Russia",6,8338,2,19,Basement,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,888,False,1170.87,47500
+660,Projet Renovation,Residential,"Saint-peterburg, Russia",3,89286,10,52,Basement,Steel,Brick,Shingles,central system gaz,PEX_Pipe,988,False,2523.49,95500
+661,Projet Renovation,Residential,"Ekaterinburg, Russia",6,87673,9,60,Crawlspace,Wood,Siding,Shingles,central system gaz,ABS_Pipe,189,False,3255.26,110000
+662,Projet New building,Commercial,"Tambov, Russia",1,22693,9,61,Slab,Steel,Siding,Metal,central system electric,PVC_Pipe,342,True,4737.73,98500
+663,Projet Renovation,Industrial,"Tambov, Russia",8,32611,7,35,Crawlspace,Steel,Siding,Shingles,central system electric,Rigid_Copper_Pipe,710,True,736.46,78000
+664,Projet New building,Residential,"Ekaterinburg, Russia",1,37105,3,38,Basement,Concrete,Brick,Shingles,central system electric,Rigid_Copper_Pipe,817,False,2705.88,60700
+665,Projet New building,Residential,"Tambov, Russia",9,52904,1,47,Basement,Wood,Siding,Shingles,central system electric,Rigid_Copper_Pipe,917,True,1783.9,71500
+666,Projet Renovation,Residential,"Ekaterinburg, Russia",4,65616,5,70,Basement,Steel,Siding,Metal,central system gaz,Rigid_Copper_Pipe,268,True,3796.2,96000
+667,Projet Renovation,Commercial,"Saint-peterburg, Russia",9,81432,5,47,Basement,Wood,Brick,Metal,central system gaz,PVC_Pipe,663,False,1683.98,83000
+668,Projet Renovation,Commercial,"Tambov, Russia",3,31028,5,18,Slab,Concrete,Siding,Shingles,central system electric,PEX_Pipe,759,True,4000.55,45200
+669,Projet New building,Commercial,"Ekaterinburg, Russia",9,27953,5,17,Slab,Steel,Brick,Tiles,central system electric,PEX_Pipe,141,True,660.11,51000
+670,Projet New building,Industrial,"kazan, Russia",8,91654,7,32,Crawlspace,Concrete,Brick,Metal,central system electric,Rigid_Copper_Pipe,456,True,1477.61,74700
+671,Projet Renovation,Residential,"Moscow, Russia",1,84136,7,16,Basement,Wood,Stucco,Metal,central system electric,ABS_Pipe,238,True,1018.85,49000
+672,Projet Renovation,Commercial,"Tambov, Russia",1,81711,10,52,Basement,Steel,Brick,Metal,central system gaz,ABS_Pipe,799,False,1541.67,94000
+673,Projet Renovation,Commercial,"Moscow, Russia",7,96434,10,61,Basement,Concrete,Stucco,Tiles,central system gaz,Braided_Pipe,688,False,797.01,109700
+674,Projet Renovation,Residential,"Saint-peterburg, Russia",7,77186,5,78,Slab,Steel,Stucco,Shingles,central system electric,ABS_Pipe,209,True,3403.96,113000
+675,Projet New building,Residential,"kazan, Russia",7,50938,1,26,Crawlspace,Wood,Stucco,Tiles,central system gaz,PEX_Pipe,753,False,1260.69,50000
+676,Projet Renovation,Residential,"Moscow, Russia",7,66467,2,86,Crawlspace,Steel,Siding,Tiles,central system electric,PEX_Pipe,644,True,3199.54,112000
+677,Projet New building,Residential,"Moscow, Russia",4,70376,10,95,Slab,Concrete,Stucco,Shingles,central system electric,Braided_Pipe,188,False,1775.25,137200
+678,Projet New building,Industrial,"kazan, Russia",3,68686,5,90,Slab,Wood,Stucco,Tiles,central system electric,Flexi_Pipe,222,True,4546.35,116000
+679,Projet New building,Residential,"Moscow, Russia",10,9098,10,85,Crawlspace,Steel,Brick,Tiles,central system electric,Rigid_Copper_Pipe,114,False,1388.61,136000
+680,Projet Renovation,Residential,"Saint-peterburg, Russia",1,76984,3,99,Slab,Concrete,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,770,False,4387.63,120200
+681,Projet New building,Industrial,"Ekaterinburg, Russia",6,33634,3,58,Slab,Concrete,Stucco,Metal,central system gaz,PEX_Pipe,631,True,538.1,85700
+682,Projet Renovation,Residential,"kazan, Russia",5,3744,5,27,Slab,Concrete,Brick,Shingles,central system gaz,Flexi_Pipe,403,False,4281.31,55200
+683,Projet New building,Residential,"kazan, Russia",1,90589,5,46,Crawlspace,Concrete,Brick,Metal,central system gaz,Rigid_Copper_Pipe,271,True,502.01,74700
+684,Projet New building,Commercial,"Ekaterinburg, Russia",8,26555,6,29,Crawlspace,Concrete,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,506,True,2006.61,67200
+685,Projet New building,Commercial,"Saint-peterburg, Russia",10,19432,10,97,Crawlspace,Steel,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,238,False,2665.58,149000
+686,Projet Renovation,Commercial,"Tambov, Russia",4,30831,3,3,Crawlspace,Concrete,Brick,Tiles,central system electric,Rigid_Copper_Pipe,710,False,2258.84,25200
+687,Projet Renovation,Industrial,"Moscow, Russia",5,39430,4,60,Basement,Steel,Siding,Metal,central system gaz,PEX_Pipe,319,True,356.19,83000
+688,Projet New building,Commercial,"Saint-peterburg, Russia",2,95966,10,97,Crawlspace,Concrete,Stucco,Shingles,central system electric,Flexi_Pipe,319,False,2656.57,141200
+689,Projet Renovation,Residential,"Tambov, Russia",2,91716,9,34,Basement,Concrete,Siding,Shingles,central system electric,Flexi_Pipe,710,True,2200.61,73700
+690,Projet New building,Industrial,"Saint-peterburg, Russia",2,1707,5,74,Basement,Concrete,Brick,Tiles,central system electric,PEX_Pipe,803,False,4370.69,100700
+691,Projet New building,Industrial,"kazan, Russia",9,3673,4,69,Crawlspace,Concrete,Siding,Shingles,central system gaz,Flexi_Pipe,135,True,4173.75,103200
+692,Projet New building,Industrial,"kazan, Russia",2,17407,6,84,Crawlspace,Steel,Stucco,Metal,central system gaz,PVC_Pipe,350,False,4898.55,114500
+693,Projet Renovation,Industrial,"kazan, Russia",5,83627,4,58,Basement,Steel,Stucco,Shingles,central system gaz,PVC_Pipe,115,False,4088.2,82500
+694,Projet Renovation,Industrial,"Ekaterinburg, Russia",3,90879,10,96,Basement,Wood,Siding,Metal,central system gaz,Braided_Pipe,689,True,988.41,138000
+695,Projet Renovation,Industrial,"Tambov, Russia",10,44292,9,20,Crawlspace,Wood,Brick,Shingles,central system electric,PVC_Pipe,310,True,4132.15,71000
+696,Projet Renovation,Residential,"kazan, Russia",10,65670,2,62,Slab,Steel,Brick,Metal,central system gaz,Rigid_Copper_Pipe,569,True,3237.64,87500
+697,Projet New building,Residential,"Moscow, Russia",10,4733,1,91,Basement,Wood,Stucco,Shingles,central system gaz,PEX_Pipe,350,False,4804.82,115500
+698,Projet New building,Commercial,"kazan, Russia",10,95623,7,42,Basement,Concrete,Brick,Tiles,central system electric,Flexi_Pipe,781,False,964.22,82700
+699,Projet New building,Industrial,"kazan, Russia",3,38918,4,95,Crawlspace,Steel,Brick,Metal,central system gaz,Rigid_Copper_Pipe,186,False,675.51,120500
+700,Projet New building,Commercial,"kazan, Russia",8,48146,9,97,Basement,Wood,Siding,Tiles,central system electric,PVC_Pipe,116,False,1386.56,143500
+701,Projet New building,Residential,"Saint-peterburg, Russia",10,39614,6,14,Slab,Concrete,Stucco,Tiles,central system gaz,Braided_Pipe,750,True,1118.82,50200
+702,Projet New building,Commercial,"Tambov, Russia",5,37250,7,26,Crawlspace,Wood,Brick,Tiles,central system electric,Braided_Pipe,889,True,2163.93,61000
+703,Projet New building,Commercial,"Ekaterinburg, Russia",4,89332,8,20,Slab,Steel,Stucco,Shingles,central system gaz,Flexi_Pipe,466,False,1944.1,56000
+704,Projet Renovation,Commercial,"Ekaterinburg, Russia",1,14991,9,62,Crawlspace,Steel,Brick,Shingles,central system gaz,Flexi_Pipe,871,True,2993.43,104000
+705,Projet New building,Residential,"Ekaterinburg, Russia",1,51547,7,65,Slab,Steel,Stucco,Metal,central system electric,ABS_Pipe,937,False,1680.88,96500
+706,Projet New building,Industrial,"Ekaterinburg, Russia",1,79459,7,50,Crawlspace,Concrete,Brick,Metal,central system gaz,Braided_Pipe,718,False,4329.4,84700
+707,Projet New building,Commercial,"Moscow, Russia",10,2972,2,98,Crawlspace,Concrete,Brick,Tiles,central system gaz,Braided_Pipe,808,False,1070.7,125200
+708,Projet Renovation,Residential,"kazan, Russia",10,14436,10,15,Basement,Steel,Stucco,Metal,central system gaz,Flexi_Pipe,728,True,2994.28,64000
+709,Projet Renovation,Residential,"Ekaterinburg, Russia",10,1048,1,63,Crawlspace,Steel,Brick,Metal,central system electric,Braided_Pipe,603,False,4862.47,87500
+710,Projet Renovation,Residential,"Saint-peterburg, Russia",7,36398,10,83,Slab,Steel,Stucco,Tiles,central system electric,Flexi_Pipe,456,False,1123.56,131000
+711,Projet New building,Residential,"Tambov, Russia",7,73107,6,94,Crawlspace,Wood,Stucco,Shingles,central system electric,Flexi_Pipe,969,True,1056.86,135000
+712,Projet New building,Residential,"Saint-peterburg, Russia",3,25903,2,19,Basement,Wood,Siding,Tiles,central system electric,PVC_Pipe,554,True,3746.34,36500
+713,Projet Renovation,Industrial,"Ekaterinburg, Russia",7,95963,8,34,Basement,Wood,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,561,False,3733.04,79500
+714,Projet New building,Residential,"Ekaterinburg, Russia",9,9867,4,23,Basement,Steel,Siding,Shingles,central system electric,PVC_Pipe,353,True,3040.43,55500
+715,Projet New building,Commercial,"Moscow, Russia",5,46596,6,72,Crawlspace,Steel,Stucco,Metal,central system gaz,PVC_Pipe,966,False,4863.27,102500
+716,Projet New building,Industrial,"kazan, Russia",9,59224,5,33,Basement,Concrete,Brick,Shingles,central system gaz,PEX_Pipe,102,False,2420.18,69700
+717,Projet New building,Industrial,"Moscow, Russia",1,18174,1,62,Crawlspace,Concrete,Brick,Tiles,central system electric,Braided_Pipe,137,True,3644.26,78200
+718,Projet Renovation,Industrial,"Moscow, Russia",6,12578,2,78,Slab,Wood,Stucco,Shingles,central system gaz,Flexi_Pipe,451,True,4945.93,105000
+719,Projet New building,Commercial,"Moscow, Russia",3,72221,5,71,Slab,Steel,Brick,Metal,central system electric,Rigid_Copper_Pipe,523,False,4830.88,97500
+720,Projet New building,Residential,"kazan, Russia",3,18780,8,13,Slab,Steel,Stucco,Tiles,central system gaz,Braided_Pipe,981,False,2246.74,47000
+721,Projet Renovation,Residential,"Moscow, Russia",7,40747,6,12,Slab,Wood,Stucco,Metal,central system gaz,Braided_Pipe,246,True,883.95,49500
+722,Projet Renovation,Residential,"kazan, Russia",8,33518,7,5,Slab,Concrete,Brick,Metal,central system electric,PVC_Pipe,640,True,1064.94,45700
+723,Projet New building,Commercial,"kazan, Russia",8,77394,1,82,Slab,Steel,Brick,Tiles,central system electric,Flexi_Pipe,610,True,4901.42,104000
+724,Projet Renovation,Industrial,"kazan, Russia",5,2845,8,43,Basement,Wood,Brick,Metal,central system electric,Braided_Pipe,826,True,2408.65,80000
+725,Projet New building,Commercial,"Saint-peterburg, Russia",6,91338,9,44,Basement,Concrete,Brick,Shingles,central system gaz,Flexi_Pipe,665,True,4235.96,92700
+726,Projet New building,Commercial,"Tambov, Russia",8,11516,2,94,Crawlspace,Steel,Siding,Shingles,central system electric,Flexi_Pipe,539,False,1259.06,122000
+727,Projet New building,Commercial,"Tambov, Russia",8,57634,1,59,Crawlspace,Concrete,Stucco,Metal,central system gaz,Rigid_Copper_Pipe,720,True,849.87,82700
+728,Projet New building,Commercial,"kazan, Russia",1,16050,8,94,Basement,Wood,Brick,Tiles,central system gaz,Flexi_Pipe,245,False,2830.14,130500
+729,Projet Renovation,Residential,"kazan, Russia",1,6593,4,57,Basement,Steel,Brick,Shingles,central system gaz,ABS_Pipe,691,False,4163.15,82500
+730,Projet Renovation,Commercial,"Moscow, Russia",8,43027,4,13,Crawlspace,Wood,Brick,Metal,central system electric,ABS_Pipe,239,False,2847.51,47500
+731,Projet New building,Commercial,"kazan, Russia",7,83421,6,21,Slab,Steel,Stucco,Metal,central system gaz,Flexi_Pipe,353,False,4851.11,57500
+732,Projet New building,Commercial,"Ekaterinburg, Russia",9,24319,4,88,Basement,Concrete,Siding,Metal,central system electric,Rigid_Copper_Pipe,965,False,394.83,119200
+733,Projet Renovation,Residential,"kazan, Russia",8,6822,3,89,Basement,Wood,Stucco,Shingles,central system gaz,ABS_Pipe,689,True,4947.76,119500
+734,Projet New building,Industrial,"kazan, Russia",6,66731,9,83,Crawlspace,Steel,Brick,Metal,central system electric,Braided_Pipe,384,False,2047.16,131500
+735,Projet New building,Industrial,"Tambov, Russia",5,89644,3,57,Slab,Concrete,Brick,Metal,central system gaz,Flexi_Pipe,601,True,1561.18,77700
+736,Projet New building,Residential,"Saint-peterburg, Russia",4,96864,6,45,Slab,Steel,Siding,Shingles,central system gaz,Rigid_Copper_Pipe,710,False,2210.88,75000
+737,Projet Renovation,Industrial,"Ekaterinburg, Russia",4,21309,2,73,Slab,Concrete,Brick,Metal,central system gaz,PVC_Pipe,265,False,2807.87,90700
+738,Projet New building,Industrial,"Tambov, Russia",9,34010,7,57,Crawlspace,Steel,Brick,Shingles,central system gaz,PEX_Pipe,727,False,1431.41,101000
+739,Projet New building,Industrial,"Tambov, Russia",4,91877,10,49,Slab,Steel,Stucco,Metal,central system electric,Braided_Pipe,493,True,4077.6,89500
+740,Projet New building,Industrial,"kazan, Russia",3,68700,2,83,Slab,Steel,Brick,Metal,central system electric,Braided_Pipe,859,False,4414.18,100500
+741,Projet New building,Residential,"Tambov, Russia",9,1531,2,46,Slab,Steel,Stucco,Shingles,central system gaz,PEX_Pipe,888,False,4703.06,72000
+742,Projet New building,Residential,"Saint-peterburg, Russia",4,16340,7,83,Slab,Wood,Siding,Metal,central system gaz,Rigid_Copper_Pipe,984,False,4496.56,115500
+743,Projet New building,Industrial,"Tambov, Russia",7,45665,3,99,Crawlspace,Concrete,Stucco,Shingles,central system electric,PVC_Pipe,193,False,3534.54,130200
+744,Projet Renovation,Industrial,"Moscow, Russia",7,14085,6,43,Basement,Concrete,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,686,False,4673.02,81700
+745,Projet New building,Commercial,"Moscow, Russia",3,81697,10,10,Crawlspace,Concrete,Siding,Shingles,central system electric,ABS_Pipe,379,True,1189.98,54200
+746,Projet New building,Residential,"Tambov, Russia",6,22883,5,94,Slab,Wood,Siding,Tiles,central system electric,PEX_Pipe,590,False,3939.54,128000
+747,Projet New building,Residential,"Tambov, Russia",7,50916,2,97,Basement,Steel,Siding,Metal,central system gaz,Flexi_Pipe,344,False,2469.34,122000
+748,Projet Renovation,Commercial,"Tambov, Russia",4,7021,9,53,Crawlspace,Concrete,Brick,Tiles,central system gaz,ABS_Pipe,803,False,2447.58,93200
+749,Projet New building,Commercial,"Ekaterinburg, Russia",9,40147,4,66,Crawlspace,Wood,Siding,Metal,central system gaz,Flexi_Pipe,735,True,3561.73,99500
+750,Projet New building,Industrial,"Saint-peterburg, Russia",8,78875,4,7,Crawlspace,Wood,Siding,Tiles,central system gaz,Flexi_Pipe,858,False,2972.92,40000
+751,Projet Renovation,Industrial,"Tambov, Russia",4,5436,10,30,Basement,Wood,Brick,Metal,central system gaz,Braided_Pipe,996,True,1926.46,73000
+752,Projet Renovation,Commercial,"Saint-peterburg, Russia",9,52297,7,14,Basement,Concrete,Stucco,Tiles,central system electric,PVC_Pipe,644,False,1196.17,53700
+753,Projet Renovation,Residential,"Moscow, Russia",5,11235,3,23,Slab,Concrete,Brick,Shingles,central system electric,ABS_Pipe,721,False,547.76,45200
+754,Projet New building,Industrial,"Tambov, Russia",7,31801,2,55,Crawlspace,Wood,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,850,True,881.77,83000
+755,Projet New building,Commercial,"kazan, Russia",2,26733,1,79,Slab,Concrete,Brick,Metal,central system electric,Flexi_Pipe,788,True,4666.51,93700
+756,Projet Renovation,Industrial,"Moscow, Russia",5,59445,3,28,Crawlspace,Concrete,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,169,True,670.97,51200
+757,Projet New building,Commercial,"Tambov, Russia",5,47225,10,49,Slab,Steel,Siding,Tiles,central system gaz,Flexi_Pipe,171,True,204.86,89000
+758,Projet New building,Industrial,"Tambov, Russia",10,22232,7,77,Crawlspace,Concrete,Stucco,Tiles,central system electric,ABS_Pipe,268,True,2835.25,118200
+759,Projet Renovation,Commercial,"Moscow, Russia",8,52469,7,56,Crawlspace,Concrete,Siding,Tiles,central system electric,Flexi_Pipe,994,False,2140.01,97200
+760,Projet Renovation,Commercial,"Moscow, Russia",1,5879,1,93,Slab,Concrete,Brick,Shingles,central system electric,Rigid_Copper_Pipe,777,True,1643.27,109200
+761,Projet New building,Industrial,"Ekaterinburg, Russia",4,12424,4,43,Slab,Wood,Brick,Tiles,central system electric,Flexi_Pipe,156,False,1476.28,67000
+762,Projet Renovation,Residential,"Moscow, Russia",8,82574,1,62,Crawlspace,Concrete,Stucco,Metal,central system gaz,PVC_Pipe,1000,False,1495.48,85700
+763,Projet Renovation,Industrial,"Ekaterinburg, Russia",1,77091,6,28,Crawlspace,Steel,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,444,True,2874.14,60000
+764,Projet Renovation,Residential,"Moscow, Russia",3,49220,4,73,Basement,Wood,Siding,Tiles,central system electric,PVC_Pipe,282,False,853.68,96500
+765,Projet Renovation,Industrial,"Tambov, Russia",2,90408,8,64,Slab,Wood,Brick,Metal,central system gaz,Braided_Pipe,506,False,942.27,100500
+766,Projet New building,Industrial,"Saint-peterburg, Russia",4,72260,5,26,Slab,Wood,Stucco,Tiles,central system electric,PEX_Pipe,125,False,3940.01,52000
+767,Projet Renovation,Commercial,"Moscow, Russia",8,88768,9,13,Crawlspace,Concrete,Siding,Shingles,central system electric,Braided_Pipe,783,True,1105.64,62200
+768,Projet New building,Residential,"Moscow, Russia",3,97001,3,12,Slab,Wood,Stucco,Tiles,central system gaz,ABS_Pipe,549,False,917.89,32000
+769,Projet Renovation,Residential,"kazan, Russia",5,40090,5,92,Slab,Wood,Brick,Metal,central system electric,PEX_Pipe,710,True,4955.25,119500
+770,Projet Renovation,Residential,"Moscow, Russia",5,49005,3,74,Slab,Wood,Siding,Metal,central system gaz,Braided_Pipe,685,False,2943.06,94500
+771,Projet New building,Commercial,"Saint-peterburg, Russia",10,56094,5,86,Crawlspace,Concrete,Brick,Tiles,central system gaz,PVC_Pipe,792,False,3366.84,122200
+772,Projet Renovation,Residential,"Saint-peterburg, Russia",7,27737,6,85,Slab,Steel,Brick,Metal,central system electric,ABS_Pipe,517,True,3893.26,122500
+773,Projet Renovation,Industrial,"Ekaterinburg, Russia",6,15536,7,77,Basement,Wood,Brick,Tiles,central system gaz,PEX_Pipe,848,False,609.36,118500
+774,Projet New building,Residential,"Saint-peterburg, Russia",8,66114,4,71,Basement,Wood,Stucco,Metal,central system gaz,Flexi_Pipe,329,False,2291.02,103000
+775,Projet New building,Commercial,"Ekaterinburg, Russia",4,65305,10,80,Crawlspace,Wood,Brick,Tiles,central system electric,ABS_Pipe,326,False,1702.43,124000
+776,Projet Renovation,Industrial,"Moscow, Russia",1,10545,10,7,Basement,Steel,Stucco,Metal,central system gaz,PEX_Pipe,173,True,1776.49,48000
+777,Projet New building,Residential,"kazan, Russia",7,74531,1,48,Basement,Wood,Brick,Tiles,central system electric,Rigid_Copper_Pipe,270,True,4230.27,71500
+778,Projet Renovation,Commercial,"Saint-peterburg, Russia",10,77620,5,95,Basement,Steel,Stucco,Metal,central system gaz,ABS_Pipe,503,True,770.66,129000
+779,Projet Renovation,Industrial,"kazan, Russia",9,64102,2,97,Basement,Wood,Stucco,Shingles,central system electric,Braided_Pipe,428,True,2196.07,124500
+780,Projet Renovation,Commercial,"Moscow, Russia",5,92006,8,60,Basement,Wood,Brick,Shingles,central system electric,Flexi_Pipe,197,False,3397.75,98500
+781,Projet Renovation,Industrial,"Moscow, Russia",5,65539,7,2,Slab,Concrete,Brick,Tiles,central system gaz,PEX_Pipe,757,False,115.53,34200
+782,Projet Renovation,Commercial,"kazan, Russia",6,6467,2,69,Crawlspace,Steel,Stucco,Shingles,central system electric,ABS_Pipe,453,False,4644.02,97000
+783,Projet Renovation,Residential,"Moscow, Russia",9,44251,2,48,Crawlspace,Concrete,Brick,Metal,central system gaz,Rigid_Copper_Pipe,901,True,1863.41,75700
+784,Projet New building,Residential,"Tambov, Russia",4,77374,5,92,Basement,Wood,Brick,Shingles,central system gaz,Rigid_Copper_Pipe,546,False,4600.13,121500
+785,Projet New building,Commercial,"Moscow, Russia",2,13047,9,35,Basement,Wood,Stucco,Shingles,central system electric,PEX_Pipe,991,False,2898.7,75500
+786,Projet Renovation,Commercial,"Ekaterinburg, Russia",4,18245,3,64,Crawlspace,Steel,Brick,Tiles,central system gaz,Braided_Pipe,456,True,1478.26,86000
+787,Projet Renovation,Industrial,"Ekaterinburg, Russia",5,11541,3,12,Basement,Steel,Siding,Metal,central system electric,Flexi_Pipe,922,False,192.18,32000
+788,Projet New building,Residential,"Saint-peterburg, Russia",2,95700,8,9,Crawlspace,Concrete,Siding,Tiles,central system gaz,PVC_Pipe,336,False,2116.84,45200
+789,Projet Renovation,Residential,"Ekaterinburg, Russia",5,29462,9,62,Basement,Steel,Siding,Metal,central system gaz,PEX_Pipe,194,True,3976.65,100000
+790,Projet Renovation,Industrial,"Saint-peterburg, Russia",8,22782,4,1,Basement,Wood,Stucco,Shingles,central system electric,PVC_Pipe,795,True,4000.34,34500
+791,Projet Renovation,Residential,"Moscow, Russia",9,78977,8,41,Basement,Steel,Siding,Tiles,central system gaz,Braided_Pipe,140,True,4908.47,83500
+792,Projet Renovation,Residential,"Saint-peterburg, Russia",3,60362,8,5,Basement,Wood,Siding,Tiles,central system gaz,PVC_Pipe,140,False,4154.45,40500
+793,Projet New building,Commercial,"Tambov, Russia",3,91707,7,10,Slab,Concrete,Stucco,Tiles,central system electric,PEX_Pipe,154,True,4368.0,41200
+794,Projet New building,Residential,"kazan, Russia",2,24069,4,20,Crawlspace,Concrete,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,269,True,679.44,45200
+795,Projet Renovation,Residential,"Ekaterinburg, Russia",4,37282,6,36,Basement,Steel,Stucco,Tiles,central system electric,Braided_Pipe,444,True,4379.51,64500
+796,Projet Renovation,Residential,"Saint-peterburg, Russia",10,72715,7,31,Basement,Wood,Stucco,Metal,central system gaz,PEX_Pipe,294,False,3283.43,72000
+797,Projet New building,Residential,"Tambov, Russia",9,50026,7,98,Crawlspace,Concrete,Siding,Metal,central system gaz,PVC_Pipe,953,False,1295.47,139700
+798,Projet New building,Commercial,"kazan, Russia",4,43291,4,40,Basement,Concrete,Stucco,Metal,central system electric,Flexi_Pipe,108,True,702.66,63200
+799,Projet New building,Industrial,"kazan, Russia",4,96572,10,1,Slab,Steel,Brick,Tiles,central system electric,Rigid_Copper_Pipe,907,False,4197.26,42000
+800,Projet Renovation,Industrial,"Tambov, Russia",7,94344,9,22,Crawlspace,Concrete,Stucco,Metal,central system gaz,Rigid_Copper_Pipe,785,False,1307.55,69700
+801,Projet Renovation,Industrial,"kazan, Russia",3,39985,6,39,Basement,Wood,Brick,Metal,central system electric,Flexi_Pipe,466,True,1001.94,70000
+802,Projet New building,Residential,"Moscow, Russia",8,94477,6,20,Slab,Wood,Stucco,Metal,central system gaz,Flexi_Pipe,545,True,1084.83,57500
+803,Projet New building,Commercial,"Saint-peterburg, Russia",7,8366,10,68,Crawlspace,Concrete,Siding,Tiles,central system electric,PEX_Pipe,124,False,125.47,118200
+804,Projet Renovation,Commercial,"kazan, Russia",5,45768,5,95,Crawlspace,Concrete,Siding,Shingles,central system gaz,ABS_Pipe,879,True,1545.17,124200
+805,Projet New building,Commercial,"kazan, Russia",7,29042,5,88,Basement,Wood,Stucco,Tiles,central system gaz,ABS_Pipe,223,True,3609.05,122500
+806,Projet New building,Commercial,"Saint-peterburg, Russia",7,87729,1,94,Slab,Concrete,Brick,Tiles,central system electric,Braided_Pipe,185,False,2917.65,116200
+807,Projet New building,Commercial,"Moscow, Russia",10,15157,2,19,Crawlspace,Steel,Siding,Tiles,central system gaz,ABS_Pipe,304,False,1110.38,45000
+808,Projet New building,Industrial,"Ekaterinburg, Russia",5,3878,2,36,Crawlspace,Concrete,Brick,Shingles,central system electric,PEX_Pipe,995,True,3868.41,57200
+809,Projet New building,Residential,"Tambov, Russia",4,58248,3,42,Slab,Wood,Stucco,Tiles,central system gaz,PEX_Pipe,382,True,4007.13,62000
+810,Projet New building,Industrial,"Moscow, Russia",10,5761,2,81,Basement,Wood,Siding,Tiles,central system gaz,Flexi_Pipe,523,True,1554.89,106500
+811,Projet New building,Industrial,"Moscow, Russia",3,75628,3,24,Slab,Wood,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,242,True,3508.47,44000
+812,Projet New building,Residential,"Moscow, Russia",7,24689,7,92,Basement,Wood,Stucco,Metal,central system electric,PVC_Pipe,920,True,376.35,133000
+813,Projet New building,Commercial,"Ekaterinburg, Russia",2,11082,9,53,Basement,Wood,Siding,Tiles,central system gaz,Braided_Pipe,439,False,4981.64,91500
+814,Projet Renovation,Residential,"Saint-peterburg, Russia",1,56183,1,96,Slab,Wood,Stucco,Tiles,central system electric,ABS_Pipe,597,False,937.81,110000
+815,Projet New building,Residential,"Ekaterinburg, Russia",3,37113,5,69,Basement,Steel,Brick,Shingles,central system electric,Rigid_Copper_Pipe,334,False,2819.07,97500
+816,Projet Renovation,Industrial,"Ekaterinburg, Russia",8,36121,8,43,Crawlspace,Concrete,Siding,Tiles,central system electric,Rigid_Copper_Pipe,948,True,4778.11,87200
+817,Projet Renovation,Commercial,"Moscow, Russia",2,71561,8,26,Slab,Concrete,Siding,Tiles,central system electric,PVC_Pipe,556,True,3583.21,60200
+818,Projet Renovation,Commercial,"Tambov, Russia",2,83726,4,39,Basement,Steel,Siding,Shingles,central system gaz,PVC_Pipe,541,True,3107.74,63500
+819,Projet Renovation,Residential,"Saint-peterburg, Russia",5,51827,4,72,Basement,Wood,Siding,Tiles,central system electric,Rigid_Copper_Pipe,475,True,1927.61,95500
+820,Projet New building,Residential,"Moscow, Russia",6,26545,4,36,Crawlspace,Wood,Siding,Shingles,central system electric,Rigid_Copper_Pipe,700,True,3793.48,71000
+821,Projet New building,Residential,"Saint-peterburg, Russia",1,22553,8,32,Crawlspace,Concrete,Siding,Shingles,central system electric,Flexi_Pipe,284,False,2923.33,70200
+822,Projet Renovation,Industrial,"kazan, Russia",4,72531,3,73,Slab,Concrete,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,315,False,4980.51,94200
+823,Projet New building,Industrial,"Moscow, Russia",7,81661,3,53,Crawlspace,Concrete,Siding,Metal,central system gaz,PEX_Pipe,117,True,1119.77,82700
+824,Projet New building,Commercial,"Tambov, Russia",4,15614,6,12,Slab,Wood,Brick,Shingles,central system gaz,Braided_Pipe,887,True,802.2,44000
+825,Projet New building,Residential,"Ekaterinburg, Russia",10,28653,5,1,Slab,Wood,Siding,Tiles,central system electric,PEX_Pipe,340,False,4653.71,35000
+826,Projet Renovation,Residential,"Tambov, Russia",1,84898,8,32,Crawlspace,Concrete,Brick,Shingles,central system gaz,Braided_Pipe,837,True,4466.51,71200
+827,Projet Renovation,Residential,"Saint-peterburg, Russia",7,3568,7,69,Basement,Steel,Stucco,Shingles,central system electric,PVC_Pipe,720,False,3212.08,110500
+828,Projet Renovation,Industrial,"Ekaterinburg, Russia",4,98548,8,4,Crawlspace,Wood,Brick,Shingles,central system electric,Braided_Pipe,338,True,1268.83,44000
+829,Projet Renovation,Commercial,"Saint-peterburg, Russia",2,2264,2,13,Slab,Steel,Stucco,Tiles,central system gaz,Flexi_Pipe,455,False,2904.33,29000
+830,Projet New building,Residential,"Moscow, Russia",2,51367,9,72,Slab,Wood,Stucco,Tiles,central system gaz,Braided_Pipe,334,False,868.16,110000
+831,Projet New building,Industrial,"Ekaterinburg, Russia",5,32169,2,30,Slab,Wood,Stucco,Metal,central system gaz,Rigid_Copper_Pipe,113,True,3571.87,47500
+832,Projet Renovation,Commercial,"Moscow, Russia",6,31819,7,91,Crawlspace,Wood,Siding,Tiles,central system gaz,ABS_Pipe,961,False,2894.52,133000
+833,Projet New building,Residential,"Saint-peterburg, Russia",1,43178,4,64,Basement,Steel,Brick,Tiles,central system gaz,ABS_Pipe,584,False,2119.27,87500
+834,Projet Renovation,Residential,"kazan, Russia",3,93852,7,45,Slab,Wood,Stucco,Tiles,central system gaz,Rigid_Copper_Pipe,825,True,3324.24,77000
+835,Projet New building,Residential,"kazan, Russia",8,20905,2,54,Crawlspace,Steel,Siding,Tiles,central system gaz,PEX_Pipe,965,False,1466.77,80000
+836,Projet Renovation,Commercial,"Tambov, Russia",4,42579,3,22,Basement,Steel,Brick,Shingles,central system electric,Flexi_Pipe,660,False,3459.87,44500
+837,Projet Renovation,Residential,"Tambov, Russia",3,14143,10,91,Crawlspace,Steel,Stucco,Metal,central system gaz,PVC_Pipe,977,False,1541.4,133500
+838,Projet Renovation,Industrial,"Saint-peterburg, Russia",5,77846,2,64,Basement,Steel,Stucco,Shingles,central system electric,Flexi_Pipe,541,True,4802.34,82500
+839,Projet New building,Commercial,"Ekaterinburg, Russia",10,68892,7,65,Basement,Concrete,Stucco,Tiles,central system gaz,Rigid_Copper_Pipe,279,False,1541.5,104700
+840,Projet New building,Commercial,"Moscow, Russia",1,13579,5,63,Slab,Steel,Brick,Metal,central system electric,Flexi_Pipe,682,False,2352.63,89500
+841,Projet New building,Residential,"Saint-peterburg, Russia",9,30904,2,66,Crawlspace,Wood,Stucco,Shingles,central system gaz,PVC_Pipe,745,True,1864.66,95000
+842,Projet Renovation,Industrial,"Tambov, Russia",2,51728,8,61,Slab,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,545,True,3222.55,96500
+843,Projet Renovation,Commercial,"Saint-peterburg, Russia",5,50478,10,11,Crawlspace,Steel,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,656,False,1978.61,54000
+844,Projet New building,Industrial,"Ekaterinburg, Russia",2,47403,1,16,Crawlspace,Concrete,Brick,Metal,central system electric,PVC_Pipe,258,False,3895.81,32700
+845,Projet New building,Residential,"Saint-peterburg, Russia",9,29078,6,24,Crawlspace,Concrete,Stucco,Metal,central system electric,ABS_Pipe,455,True,502.2,62700
+846,Projet Renovation,Commercial,"Saint-peterburg, Russia",7,85513,9,81,Crawlspace,Concrete,Brick,Shingles,central system electric,PVC_Pipe,581,False,1053.97,131200
+847,Projet New building,Industrial,"Tambov, Russia",2,12683,6,50,Slab,Wood,Siding,Shingles,central system gaz,Braided_Pipe,379,False,1493.17,81000
+848,Projet New building,Commercial,"Tambov, Russia",4,66466,6,48,Basement,Concrete,Brick,Shingles,central system gaz,Braided_Pipe,391,False,4395.93,79700
+849,Projet Renovation,Commercial,"Ekaterinburg, Russia",9,29139,1,55,Slab,Steel,Stucco,Metal,central system gaz,PEX_Pipe,480,True,4446.3,76500
+850,Projet New building,Industrial,"kazan, Russia",4,83778,3,92,Crawlspace,Steel,Siding,Shingles,central system electric,Braided_Pipe,994,False,1736.09,115000
+851,Projet New building,Commercial,"Ekaterinburg, Russia",2,71752,10,17,Crawlspace,Steel,Siding,Tiles,central system gaz,ABS_Pipe,880,False,438.62,59000
+852,Projet New building,Industrial,"Saint-peterburg, Russia",6,87259,7,26,Basement,Wood,Stucco,Metal,central system gaz,ABS_Pipe,879,False,3735.36,67000
+853,Projet New building,Industrial,"Ekaterinburg, Russia",5,49932,4,73,Crawlspace,Steel,Brick,Metal,central system gaz,Braided_Pipe,892,True,330.52,98500
+854,Projet Renovation,Residential,"Saint-peterburg, Russia",1,59745,5,39,Basement,Steel,Siding,Tiles,central system gaz,PVC_Pipe,387,True,4700.13,64500
+855,Projet Renovation,Commercial,"kazan, Russia",4,94464,6,57,Slab,Wood,Brick,Metal,central system electric,Rigid_Copper_Pipe,917,False,2178.4,87500
+856,Projet Renovation,Commercial,"Saint-peterburg, Russia",9,68439,2,74,Crawlspace,Steel,Stucco,Shingles,central system electric,Braided_Pipe,202,True,2822.93,102000
+857,Projet New building,Residential,"Ekaterinburg, Russia",3,71665,9,52,Slab,Steel,Brick,Shingles,central system gaz,ABS_Pipe,414,False,1606.01,92000
+858,Projet New building,Commercial,"kazan, Russia",10,75427,9,80,Slab,Concrete,Siding,Metal,central system electric,Braided_Pipe,949,True,2390.97,125700
+859,Projet New building,Industrial,"kazan, Russia",10,11839,1,63,Slab,Concrete,Stucco,Shingles,central system electric,ABS_Pipe,438,False,1573.37,86200
+860,Projet New building,Industrial,"Ekaterinburg, Russia",1,93025,9,28,Slab,Wood,Siding,Tiles,central system gaz,PEX_Pipe,840,True,148.07,66000
+861,Projet Renovation,Residential,"Tambov, Russia",6,78971,2,70,Crawlspace,Concrete,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,273,False,502.14,96200
+862,Projet Renovation,Residential,"Ekaterinburg, Russia",7,80462,1,12,Crawlspace,Wood,Brick,Metal,central system gaz,Braided_Pipe,497,False,534.32,37500
+863,Projet New building,Commercial,"Saint-peterburg, Russia",10,85039,4,31,Basement,Wood,Brick,Tiles,central system gaz,PVC_Pipe,193,True,2250.68,63500
+864,Projet Renovation,Commercial,"kazan, Russia",1,9591,7,44,Slab,Steel,Brick,Tiles,central system electric,Flexi_Pipe,428,False,2178.47,76000
+865,Projet New building,Residential,"Moscow, Russia",4,67466,6,14,Slab,Wood,Brick,Tiles,central system gaz,PVC_Pipe,538,False,389.57,44000
+866,Projet Renovation,Residential,"kazan, Russia",8,26034,10,45,Basement,Steel,Stucco,Metal,central system gaz,ABS_Pipe,366,False,2263.93,94000
+867,Projet Renovation,Commercial,"kazan, Russia",10,8705,8,35,Slab,Concrete,Stucco,Metal,central system electric,Braided_Pipe,585,False,4756.76,77700
+868,Projet Renovation,Industrial,"Saint-peterburg, Russia",6,69034,9,44,Basement,Wood,Brick,Metal,central system gaz,PEX_Pipe,270,True,1279.93,92000
+869,Projet New building,Industrial,"Tambov, Russia",5,59225,5,24,Basement,Concrete,Brick,Shingles,central system electric,Braided_Pipe,329,False,692.97,52700
+870,Projet New building,Commercial,"Saint-peterburg, Russia",1,8847,2,85,Basement,Wood,Stucco,Metal,central system gaz,Flexi_Pipe,626,True,4365.59,103000
+871,Projet New building,Residential,"Saint-peterburg, Russia",7,95573,5,24,Crawlspace,Steel,Brick,Tiles,central system electric,Flexi_Pipe,475,False,693.38,60000
+872,Projet Renovation,Commercial,"Tambov, Russia",3,19694,1,60,Crawlspace,Wood,Stucco,Tiles,central system gaz,Braided_Pipe,774,True,1068.96,76000
+873,Projet New building,Industrial,"Moscow, Russia",9,53653,8,14,Basement,Concrete,Siding,Metal,central system electric,PEX_Pipe,863,False,4597.4,57200
+874,Projet Renovation,Residential,"Saint-peterburg, Russia",10,79866,1,23,Slab,Steel,Siding,Metal,central system gaz,Flexi_Pipe,307,True,1495.9,44500
+875,Projet New building,Commercial,"kazan, Russia",3,35907,6,38,Basement,Concrete,Siding,Metal,central system electric,Rigid_Copper_Pipe,819,False,1196.95,67200
+876,Projet Renovation,Residential,"Saint-peterburg, Russia",4,44327,2,69,Slab,Wood,Brick,Metal,central system gaz,PEX_Pipe,296,False,2252.76,87500
+877,Projet New building,Residential,"Tambov, Russia",1,93553,9,18,Slab,Wood,Stucco,Metal,central system gaz,PEX_Pipe,218,True,513.53,56500
+878,Projet New building,Residential,"Tambov, Russia",4,60579,1,48,Crawlspace,Steel,Stucco,Tiles,central system electric,ABS_Pipe,262,False,4167.69,63000
+879,Projet New building,Industrial,"Saint-peterburg, Russia",6,63683,4,28,Basement,Steel,Siding,Shingles,central system electric,Braided_Pipe,832,False,1912.46,60500
+880,Projet New building,Residential,"Moscow, Russia",3,39415,10,34,Slab,Steel,Stucco,Shingles,central system electric,Rigid_Copper_Pipe,897,False,435.07,76000
+881,Projet Renovation,Residential,"Moscow, Russia",2,20786,10,25,Slab,Concrete,Brick,Shingles,central system gaz,Braided_Pipe,388,True,3907.84,68200
+882,Projet New building,Commercial,"kazan, Russia",3,33428,7,27,Basement,Steel,Siding,Metal,central system gaz,Rigid_Copper_Pipe,776,False,4601.72,59000
+883,Projet New building,Residential,"Saint-peterburg, Russia",7,26917,5,70,Basement,Wood,Brick,Tiles,central system electric,Flexi_Pipe,326,True,3813.3,105500
+884,Projet New building,Residential,"Tambov, Russia",9,74527,4,85,Slab,Steel,Brick,Tiles,central system electric,Flexi_Pipe,181,True,627.47,116000
+885,Projet Renovation,Residential,"Moscow, Russia",6,52713,6,28,Basement,Steel,Siding,Shingles,central system electric,ABS_Pipe,898,False,1550.32,66500
+886,Projet New building,Commercial,"Tambov, Russia",7,12289,5,18,Crawlspace,Wood,Siding,Shingles,central system electric,Flexi_Pipe,230,True,2473.46,56000
+887,Projet New building,Residential,"Moscow, Russia",9,76447,2,91,Crawlspace,Concrete,Stucco,Tiles,central system electric,PVC_Pipe,563,False,2801.25,117200
+888,Projet New building,Industrial,"Ekaterinburg, Russia",8,50334,1,66,Crawlspace,Wood,Brick,Tiles,central system gaz,ABS_Pipe,857,True,2478.31,91000
+889,Projet New building,Industrial,"kazan, Russia",4,75031,9,41,Slab,Wood,Siding,Tiles,central system electric,Rigid_Copper_Pipe,317,True,2491.99,79000
+890,Projet New building,Commercial,"Ekaterinburg, Russia",4,66123,10,3,Basement,Concrete,Brick,Tiles,central system gaz,PEX_Pipe,774,True,215.13,44700
+891,Projet Renovation,Residential,"Saint-peterburg, Russia",4,58441,9,5,Basement,Steel,Brick,Shingles,central system gaz,PEX_Pipe,522,False,3196.38,45500
+892,Projet New building,Commercial,"kazan, Russia",1,15915,3,63,Crawlspace,Concrete,Siding,Shingles,central system gaz,ABS_Pipe,476,True,3552.75,86200
+893,Projet Renovation,Industrial,"Tambov, Russia",9,18650,10,77,Crawlspace,Concrete,Stucco,Tiles,central system gaz,Rigid_Copper_Pipe,450,False,3652.59,127200
+894,Projet New building,Commercial,"Moscow, Russia",9,50065,5,62,Crawlspace,Wood,Siding,Shingles,central system electric,ABS_Pipe,430,False,3597.62,100000
+895,Projet New building,Commercial,"Ekaterinburg, Russia",3,73051,3,92,Slab,Steel,Siding,Tiles,central system gaz,PEX_Pipe,282,True,3830.73,111000
+896,Projet New building,Industrial,"Saint-peterburg, Russia",2,19717,3,46,Basement,Wood,Stucco,Shingles,central system gaz,PEX_Pipe,601,True,2288.2,68500
+897,Projet Renovation,Residential,"Tambov, Russia",4,22715,2,62,Crawlspace,Steel,Brick,Tiles,central system electric,Flexi_Pipe,650,True,4498.75,81000
+898,Projet New building,Residential,"Ekaterinburg, Russia",9,50565,7,59,Crawlspace,Wood,Siding,Metal,central system electric,PVC_Pipe,399,True,4815.38,101500
+899,Projet Renovation,Residential,"kazan, Russia",8,36388,10,38,Slab,Concrete,Stucco,Tiles,central system gaz,PVC_Pipe,816,False,4418.86,86200
+900,Projet New building,Industrial,"Saint-peterburg, Russia",9,88123,10,69,Basement,Wood,Siding,Shingles,central system gaz,Flexi_Pipe,459,True,4569.71,120500
+901,Projet Renovation,Commercial,"Saint-peterburg, Russia",2,41954,6,24,Crawlspace,Steel,Brick,Shingles,central system electric,PEX_Pipe,812,True,4412.28,57000
+902,Projet Renovation,Residential,"kazan, Russia",2,44250,9,16,Crawlspace,Wood,Stucco,Metal,central system electric,Flexi_Pipe,511,True,3586.24,56500
+903,Projet New building,Commercial,"Ekaterinburg, Russia",3,25899,8,97,Slab,Steel,Stucco,Shingles,central system gaz,PVC_Pipe,840,False,3616.1,133000
+904,Projet Renovation,Industrial,"Saint-peterburg, Russia",9,34585,8,24,Basement,Steel,Stucco,Shingles,central system gaz,Flexi_Pipe,458,True,4088.68,68500
+905,Projet Renovation,Commercial,"Ekaterinburg, Russia",5,56085,9,48,Basement,Steel,Stucco,Metal,central system electric,Rigid_Copper_Pipe,194,True,3772.09,86000
+906,Projet Renovation,Residential,"Tambov, Russia",5,38061,10,59,Crawlspace,Steel,Siding,Tiles,central system electric,Flexi_Pipe,210,False,3838.87,101000
+907,Projet New building,Industrial,"Moscow, Russia",1,44298,9,9,Basement,Steel,Stucco,Tiles,central system electric,Braided_Pipe,164,False,311.87,46500
+908,Projet New building,Commercial,"Moscow, Russia",9,38903,3,30,Basement,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,777,True,2128.34,59000
+909,Projet Renovation,Residential,"Moscow, Russia",1,98167,8,78,Crawlspace,Steel,Stucco,Tiles,central system gaz,PVC_Pipe,384,False,1024.6,114000
+910,Projet New building,Commercial,"kazan, Russia",3,58139,3,85,Crawlspace,Steel,Brick,Metal,central system gaz,PEX_Pipe,518,False,4015.51,107500
+911,Projet New building,Industrial,"Saint-peterburg, Russia",8,10222,3,43,Basement,Concrete,Siding,Metal,central system electric,Rigid_Copper_Pipe,159,True,4203.03,71200
+912,Projet New building,Residential,"Ekaterinburg, Russia",1,92624,6,56,Basement,Steel,Siding,Metal,central system gaz,PVC_Pipe,875,False,3385.76,85000
+913,Projet Renovation,Residential,"kazan, Russia",7,76753,8,100,Basement,Wood,Siding,Metal,central system gaz,ABS_Pipe,935,True,3177.23,144000
+914,Projet Renovation,Commercial,"Saint-peterburg, Russia",5,51223,2,87,Basement,Concrete,Brick,Metal,central system gaz,Rigid_Copper_Pipe,707,False,4327.83,105200
+915,Projet New building,Residential,"Tambov, Russia",10,2790,5,79,Basement,Wood,Brick,Tiles,central system electric,PVC_Pipe,757,False,3760.53,114500
+916,Projet Renovation,Commercial,"Ekaterinburg, Russia",7,34937,1,6,Slab,Concrete,Siding,Shingles,central system electric,Braided_Pipe,836,False,2745.89,29200
+917,Projet New building,Commercial,"Saint-peterburg, Russia",8,91847,6,68,Crawlspace,Wood,Brick,Metal,central system gaz,PEX_Pipe,145,True,1900.99,108500
+918,Projet Renovation,Residential,"Saint-peterburg, Russia",8,54763,9,40,Crawlspace,Concrete,Stucco,Shingles,central system electric,ABS_Pipe,627,False,2903.02,89200
+919,Projet New building,Residential,"Ekaterinburg, Russia",6,69676,7,51,Crawlspace,Wood,Siding,Shingles,central system electric,ABS_Pipe,182,False,4995.55,95000
+920,Projet Renovation,Industrial,"Saint-peterburg, Russia",5,75048,1,41,Basement,Steel,Stucco,Metal,central system electric,PVC_Pipe,617,False,1926.39,55000
+921,Projet Renovation,Commercial,"Saint-peterburg, Russia",7,28846,5,71,Slab,Wood,Brick,Tiles,central system electric,Flexi_Pipe,225,False,2651.42,106000
+922,Projet New building,Residential,"Moscow, Russia",5,89159,8,59,Crawlspace,Wood,Stucco,Metal,central system electric,PEX_Pipe,515,False,702.06,96500
+923,Projet New building,Industrial,"Tambov, Russia",4,93992,5,36,Slab,Wood,Brick,Tiles,central system electric,PEX_Pipe,718,True,4293.17,63000
+924,Projet New building,Commercial,"Saint-peterburg, Russia",3,47761,5,68,Slab,Steel,Brick,Shingles,central system electric,Flexi_Pipe,401,False,4542.12,96000
+925,Projet New building,Residential,"kazan, Russia",3,63168,5,44,Basement,Concrete,Siding,Metal,central system gaz,Flexi_Pipe,709,False,3972.82,70200
+926,Projet New building,Commercial,"kazan, Russia",6,77528,1,20,Slab,Concrete,Stucco,Metal,central system gaz,ABS_Pipe,430,False,1110.02,41700
+927,Projet Renovation,Residential,"Tambov, Russia",7,96521,6,82,Basement,Steel,Brick,Tiles,central system electric,Braided_Pipe,516,False,740.38,119500
+928,Projet Renovation,Industrial,"Moscow, Russia",5,70761,5,70,Basement,Concrete,Stucco,Shingles,central system gaz,Rigid_Copper_Pipe,371,False,1083.12,97700
+929,Projet Renovation,Residential,"Ekaterinburg, Russia",5,7424,5,23,Crawlspace,Concrete,Brick,Tiles,central system gaz,PVC_Pipe,956,False,1772.0,51200
+930,Projet New building,Industrial,"Ekaterinburg, Russia",8,75738,1,77,Crawlspace,Steel,Brick,Metal,central system electric,Braided_Pipe,438,True,4614.1,101500
+931,Projet New building,Commercial,"kazan, Russia",8,37918,8,86,Crawlspace,Concrete,Siding,Shingles,central system gaz,Flexi_Pipe,475,False,2586.0,132200
+932,Projet Renovation,Industrial,"Ekaterinburg, Russia",6,59561,9,65,Crawlspace,Wood,Brick,Tiles,central system gaz,PEX_Pipe,468,False,2738.68,114000
+933,Projet Renovation,Residential,"kazan, Russia",1,16389,2,96,Crawlspace,Wood,Stucco,Tiles,central system gaz,ABS_Pipe,417,True,1679.3,115000
+934,Projet New building,Commercial,"Tambov, Russia",8,99481,9,46,Crawlspace,Concrete,Stucco,Shingles,central system gaz,Braided_Pipe,192,False,3230.31,95200
+935,Projet Renovation,Industrial,"kazan, Russia",9,80492,3,81,Basement,Wood,Brick,Metal,central system electric,Braided_Pipe,779,False,3140.92,111000
+936,Projet Renovation,Residential,"Ekaterinburg, Russia",10,33179,2,33,Slab,Wood,Stucco,Metal,central system electric,Rigid_Copper_Pipe,229,True,303.35,58500
+937,Projet Renovation,Industrial,"Saint-peterburg, Russia",5,12804,7,64,Basement,Wood,Brick,Metal,central system gaz,Rigid_Copper_Pipe,930,True,4773.69,98000
+938,Projet New building,Commercial,"Saint-peterburg, Russia",9,66725,1,70,Slab,Steel,Stucco,Tiles,central system electric,Rigid_Copper_Pipe,236,True,4226.7,91000
+939,Projet New building,Residential,"Moscow, Russia",1,24232,6,77,Crawlspace,Wood,Stucco,Metal,central system gaz,Flexi_Pipe,401,True,762.32,108500
+940,Projet New building,Commercial,"kazan, Russia",6,18046,1,11,Slab,Concrete,Siding,Tiles,central system gaz,PVC_Pipe,693,False,4347.71,32200
+941,Projet New building,Commercial,"Moscow, Russia",3,10245,4,42,Basement,Steel,Brick,Metal,central system gaz,Rigid_Copper_Pipe,998,False,4389.09,66000
+942,Projet Renovation,Residential,"Tambov, Russia",7,34939,9,84,Slab,Wood,Siding,Tiles,central system gaz,PEX_Pipe,779,True,2900.83,130000
+943,Projet New building,Industrial,"Tambov, Russia",4,28891,5,68,Slab,Concrete,Stucco,Metal,central system electric,PEX_Pipe,470,True,2977.8,93700
+944,Projet Renovation,Industrial,"Saint-peterburg, Russia",1,95333,6,45,Slab,Wood,Siding,Shingles,central system gaz,Flexi_Pipe,521,False,2885.22,76000
+945,Projet Renovation,Commercial,"kazan, Russia",7,16469,8,7,Slab,Wood,Stucco,Metal,central system electric,Braided_Pipe,633,False,918.94,50500
+946,Projet Renovation,Industrial,"Saint-peterburg, Russia",2,29883,7,39,Basement,Concrete,Stucco,Tiles,central system electric,Flexi_Pipe,184,False,2809.7,70700
+947,Projet Renovation,Commercial,"Moscow, Russia",4,10386,9,66,Basement,Wood,Siding,Metal,central system gaz,PVC_Pipe,831,True,4345.82,105000
+948,Projet New building,Industrial,"kazan, Russia",3,47451,3,55,Crawlspace,Wood,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,572,True,739.71,78000
+949,Projet Renovation,Residential,"kazan, Russia",7,44185,10,74,Crawlspace,Wood,Brick,Shingles,central system electric,ABS_Pipe,945,False,1867.8,128000
+950,Projet Renovation,Industrial,"Saint-peterburg, Russia",5,96333,9,8,Crawlspace,Concrete,Brick,Tiles,central system gaz,Flexi_Pipe,185,True,2612.73,48200
+951,Projet Renovation,Industrial,"kazan, Russia",6,46123,3,80,Slab,Wood,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,644,True,323.83,109000
+952,Projet New building,Industrial,"Tambov, Russia",5,57354,6,1,Slab,Steel,Stucco,Tiles,central system gaz,ABS_Pipe,622,True,2129.51,29000
+953,Projet Renovation,Residential,"Ekaterinburg, Russia",7,20901,7,67,Basement,Wood,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,984,False,1956.86,107500
+954,Projet Renovation,Residential,"Moscow, Russia",8,81171,8,15,Crawlspace,Concrete,Brick,Shingles,central system electric,Flexi_Pipe,640,False,3951.84,62200
+955,Projet Renovation,Commercial,"Moscow, Russia",7,1868,4,75,Basement,Wood,Siding,Metal,central system gaz,Flexi_Pipe,406,False,404.11,107000
+956,Projet New building,Residential,"Ekaterinburg, Russia",5,37007,7,72,Crawlspace,Concrete,Brick,Tiles,central system electric,Flexi_Pipe,893,True,269.14,106200
+957,Projet New building,Commercial,"Ekaterinburg, Russia",4,76837,4,4,Basement,Concrete,Brick,Metal,central system electric,Braided_Pipe,881,True,3944.91,28200
+958,Projet New building,Industrial,"Tambov, Russia",8,40556,7,65,Crawlspace,Wood,Siding,Tiles,central system electric,ABS_Pipe,369,False,842.54,107000
+959,Projet Renovation,Residential,"Moscow, Russia",10,40161,9,37,Slab,Steel,Brick,Tiles,central system gaz,PVC_Pipe,204,False,4447.71,83000
+960,Projet Renovation,Commercial,"kazan, Russia",1,98474,4,42,Crawlspace,Wood,Stucco,Metal,central system electric,Braided_Pipe,959,True,4531.12,67500
+961,Projet Renovation,Residential,"Tambov, Russia",10,55606,10,48,Basement,Steel,Brick,Shingles,central system electric,Rigid_Copper_Pipe,553,False,4479.83,99500
+962,Projet Renovation,Commercial,"Saint-peterburg, Russia",9,35200,1,29,Crawlspace,Wood,Brick,Metal,central system electric,ABS_Pipe,794,True,3272.54,54500
+963,Projet New building,Industrial,"Moscow, Russia",3,1336,6,31,Basement,Concrete,Siding,Shingles,central system gaz,PVC_Pipe,848,False,670.23,61700
+964,Projet New building,Residential,"kazan, Russia",9,48660,1,7,Basement,Steel,Brick,Tiles,central system gaz,ABS_Pipe,534,True,2333.31,29500
+965,Projet New building,Commercial,"Saint-peterburg, Russia",3,43043,8,2,Slab,Concrete,Stucco,Shingles,central system electric,ABS_Pipe,194,True,636.87,38200
+966,Projet New building,Residential,"Tambov, Russia",3,21830,7,61,Slab,Concrete,Siding,Metal,central system gaz,Rigid_Copper_Pipe,252,True,2821.61,92700
+967,Projet Renovation,Residential,"Moscow, Russia",10,8161,6,48,Crawlspace,Steel,Siding,Tiles,central system electric,Rigid_Copper_Pipe,404,False,1974.15,86000
+968,Projet Renovation,Residential,"Ekaterinburg, Russia",1,32831,6,47,Crawlspace,Steel,Brick,Shingles,central system electric,Braided_Pipe,211,False,2417.44,80000
+969,Projet Renovation,Commercial,"Ekaterinburg, Russia",1,7037,1,30,Basement,Wood,Brick,Shingles,central system electric,Rigid_Copper_Pipe,112,True,4812.11,47500
+970,Projet New building,Residential,"Moscow, Russia",9,15631,4,34,Slab,Concrete,Brick,Metal,central system electric,Braided_Pipe,266,True,4158.37,65700
+971,Projet Renovation,Residential,"Ekaterinburg, Russia",10,48931,2,44,Slab,Concrete,Siding,Tiles,central system gaz,PEX_Pipe,398,True,472.22,68200
+972,Projet New building,Residential,"kazan, Russia",8,77311,6,35,Basement,Wood,Brick,Tiles,central system gaz,Braided_Pipe,665,False,3857.28,73500
+973,Projet Renovation,Commercial,"Moscow, Russia",6,81680,10,57,Basement,Wood,Brick,Metal,central system gaz,Braided_Pipe,480,True,1324.38,108000
+974,Projet New building,Commercial,"Tambov, Russia",4,48994,1,93,Crawlspace,Wood,Stucco,Metal,central system gaz,PVC_Pipe,578,False,1998.25,109500
+975,Projet New building,Commercial,"Saint-peterburg, Russia",7,13841,10,8,Slab,Concrete,Brick,Metal,central system gaz,PEX_Pipe,920,False,1251.9,57700
+976,Projet Renovation,Commercial,"Moscow, Russia",2,48400,2,71,Slab,Steel,Siding,Metal,central system electric,Rigid_Copper_Pipe,225,False,638.88,87500
+977,Projet Renovation,Commercial,"Ekaterinburg, Russia",8,58914,9,3,Basement,Wood,Siding,Metal,central system electric,Rigid_Copper_Pipe,968,True,4492.08,50000
+978,Projet Renovation,Residential,"Saint-peterburg, Russia",8,87387,8,71,Basement,Concrete,Stucco,Tiles,central system gaz,ABS_Pipe,876,False,2696.14,113700
+979,Projet New building,Commercial,"Saint-peterburg, Russia",1,78370,3,17,Basement,Wood,Stucco,Shingles,central system electric,ABS_Pipe,308,True,511.81,39500
+980,Projet New building,Commercial,"Ekaterinburg, Russia",9,9265,8,26,Slab,Concrete,Siding,Tiles,central system gaz,ABS_Pipe,784,True,164.8,68200
+981,Projet New building,Residential,"Ekaterinburg, Russia",5,58153,9,98,Crawlspace,Wood,Stucco,Shingles,central system electric,ABS_Pipe,898,False,164.62,140000
+982,Projet Renovation,Industrial,"Moscow, Russia",7,63724,3,80,Basement,Wood,Stucco,Tiles,central system electric,PEX_Pipe,274,True,577.95,108500
+983,Projet Renovation,Residential,"kazan, Russia",4,98118,7,26,Basement,Steel,Brick,Shingles,central system gaz,Rigid_Copper_Pipe,601,False,981.65,60500
+984,Projet Renovation,Residential,"Ekaterinburg, Russia",1,21971,5,50,Crawlspace,Wood,Brick,Metal,central system electric,Rigid_Copper_Pipe,285,False,4959.36,79500
+985,Projet New building,Commercial,"Moscow, Russia",5,4832,2,9,Slab,Concrete,Stucco,Metal,central system electric,Braided_Pipe,783,True,1315.85,25700
+986,Projet New building,Commercial,"Moscow, Russia",5,12835,8,49,Crawlspace,Concrete,Brick,Tiles,central system electric,Rigid_Copper_Pipe,810,True,4065.15,86200
+987,Projet Renovation,Commercial,"Ekaterinburg, Russia",2,12560,8,40,Basement,Steel,Brick,Tiles,central system gaz,PEX_Pipe,426,True,4000.08,75500
+988,Projet New building,Industrial,"Saint-peterburg, Russia",1,85510,5,76,Slab,Wood,Brick,Metal,central system electric,PVC_Pipe,831,False,4472.97,103500
+989,Projet Renovation,Industrial,"Tambov, Russia",2,96372,7,90,Crawlspace,Concrete,Siding,Tiles,central system gaz,Rigid_Copper_Pipe,301,False,4241.59,123200
+990,Projet New building,Commercial,"kazan, Russia",3,82341,8,41,Basement,Steel,Siding,Metal,central system gaz,PEX_Pipe,252,True,3189.82,76000
+991,Projet Renovation,Residential,"Moscow, Russia",9,64260,5,49,Crawlspace,Steel,Stucco,Shingles,central system electric,Flexi_Pipe,494,False,2032.93,86000
+992,Projet New building,Commercial,"kazan, Russia",3,2295,8,61,Crawlspace,Wood,Stucco,Metal,central system electric,Rigid_Copper_Pipe,153,True,4848.21,98500
+993,Projet New building,Residential,"Ekaterinburg, Russia",1,49612,5,19,Crawlspace,Wood,Stucco,Metal,central system gaz,PVC_Pipe,196,True,4297.41,47500
+994,Projet New building,Residential,"Ekaterinburg, Russia",7,62738,9,15,Crawlspace,Steel,Brick,Shingles,central system gaz,Flexi_Pipe,619,False,1297.43,65000
+995,Projet Renovation,Commercial,"Ekaterinburg, Russia",2,79679,6,83,Crawlspace,Wood,Stucco,Metal,central system electric,ABS_Pipe,661,False,1611.46,114500
+996,Projet Renovation,Commercial,"Saint-peterburg, Russia",1,91324,8,63,Slab,Concrete,Brick,Tiles,central system gaz,Rigid_Copper_Pipe,536,True,1472.63,98200
+997,Projet New building,Industrial,"Ekaterinburg, Russia",1,42417,7,33,Basement,Steel,Brick,Shingles,central system gaz,Rigid_Copper_Pipe,355,False,3866.72,67500
+998,Projet New building,Commercial,"Ekaterinburg, Russia",2,63096,6,5,Crawlspace,Wood,Siding,Shingles,central system electric,Flexi_Pipe,431,False,111.52,38000
+999,Projet Renovation,Industrial,"Tambov, Russia",7,85410,3,77,Basement,Concrete,Siding,Tiles,central system electric,PVC_Pipe,957,True,4394.21,104700
+1000,Projet New building,Commercial,"Tambov, Russia",4,31195,2,30,Slab,Wood,Brick,Shingles,central system gaz,Braided_Pipe,847,False,3807.68,50000
