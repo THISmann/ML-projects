@@ -20,4 +20,7 @@ Option 3*. Try to implement K Nearest Neighbors classifier with or without the s
 
 For the best combination of parameters (weights and metric) found, build a plot of quality of classification as a function of the number of nearest neighbors.
 
+
+![](https://machinelearningknowledge.ai/wp-content/uploads/2018/08/KNN-Classification.gif)
+
 https://en.wikipedia.org/wiki/Kernel_(statistics)
