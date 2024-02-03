@@ -10,7 +10,6 @@ L'algorithme Support Vector Machine (SVM) est un outil de classification supervi
 
 L'avantage principal de SVM est sa capacité à gérer les données non linéaires et ses performances excellentes même avec des données imbalancées. Cependant, il peut être sensible
 
-
 ![img](https://machinelearningmastery.ru/img/0-875815-724259.gif)
 
 ![Formulating the Support Vector Machine Optimization Problem – Math ∩  Programming](https://jeremykun.com/wp-content/uploads/2017/06/svm_solve_by_hand-e1496076457793.gif)
