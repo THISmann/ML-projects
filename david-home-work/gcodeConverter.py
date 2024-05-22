@@ -13,7 +13,7 @@ def load_and_process_image(image_path):
     return normalized_img
 
 # Ensure the image path is correct
-image_path = 'img.png' # Update this path if necessary
+image_path = 'img2.png' # Update this path if necessary
 image_data = load_and_process_image(image_path)
 
 def image_to_gcode(image_data):
