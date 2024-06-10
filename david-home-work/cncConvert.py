@@ -38,7 +38,7 @@ def convert_gcode_to_fanuc(gcode_lines):
 
     for line in gcode_lines:
         line = line.strip()
-        if line.startswith("G01"):
+        if line.startswith("G00"):
             parts = line.split()
             coords = {part[0]: float(part[1:]) for part in parts[1:] if part.startswith(('X', 'Y', 'Z'))}
             if 'X' not in coords or 'Y' not in coords:
