@@ -1,0 +1,36 @@
+[
+  {
+    "condition": null,
+    "createdOn": "2025-02-08T12:34:26.110962+00:00",
+    "id": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e/providers/Microsoft.Authorization/roleAssignments/be00961e-47c7-445a-aaa6-5e9a69e6e90f",
+    "principalId": "ba86f87e-0de7-43c5-abfb-88ca3012ae74",
+    "principalName": "admin@gitsa619.onmicrosoft.com",
+    "principalType": "User",
+    "roleDefinitionName": "Owner",
+    "scope": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e"
+  },
+  {
+    "createdOn": "2025-04-06T21:40:54.071037+00:00",
+    "id": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e/providers/Microsoft.Authorization/roleAssignments/1cc1d6b9-ccaa-40fd-8b57-679e68f46ab2",
+    "principalId": "1ba86577-8d68-46ca-ab1e-0718edb7f258",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionName": "Contributor",
+    "scope": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e"
+  },
+  {
+    "createdOn": "2025-04-24T16:01:46.813230+00:00",
+    "id": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e/providers/Microsoft.Authorization/roleAssignments/d244800a-0962-429d-8f94-9c03b3f57b08",
+    "principalId": "f0e6ce37-3017-4e0a-a0ab-43e9ceb6f8d5",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionName": "Contributor",
+    "scope": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e"
+  },
+  {
+    "createdOn": "2025-04-24T16:01:47.961543+00:00",
+    "id": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e/providers/Microsoft.Authorization/roleAssignments/819fc6a8-bceb-467d-8658-683f15203324",
+    "principalId": "f0e6ce37-3017-4e0a-a0ab-43e9ceb6f8d5",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionName": "User Access Administrator",
+    "scope": "/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e"
+  }
+]
