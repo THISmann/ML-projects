@@ -140,10 +140,10 @@ if __name__ == "__main__":
     results = analyze_assignments(assignments)
     
     print("=== Résultats de l'Analyse ===")
-    for item in results:
-        print(f"[{item['risk']}] {item['principal']} ({item['role']})")
-        print(f"  Raison : {item['reason']}")
-        print(f"  ID : {item['id']}\n")
+    # for item in results:
+    #     print(f"[{item['risk']}] {item['principal']} ({item['role']})")
+    #     print(f"  Raison : {item['reason']}")
+    #     print(f"  ID : {item['id']}\n")
 
     # Préparation des données pour le ML
     df_ml = prepare_data_for_ml(assignments)
@@ -174,7 +174,5 @@ if __name__ == "__main__":
         item['ml_risk'] = 'CRITIQUE' if predictions[i] == 1 else 'ÉLEVÉ' if predictions[i] == 0 else 'NORMAL'
     
     print("\n=== Résultats de l'Analyse avec ML ===")
-    for item in results:
-        print(f"[{item['ml_risk']}] {item['principal']} ({item['role']})")
-        print(f"  Raison : {item['reason']}")
-        print(f"  ID : {item['id']}\n")
+  
+  

@@ -1,0 +1,2 @@
+id,principalName,principalType,roleDefinitionName,scope
+/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e/providers/Microsoft.Authorization/roleAssignments/be00961e-47c7-445a-aaa6-5e9a69e6e90f,admin@gitsa619.onmicrosoft.com,User,Owner,/subscriptions/3ec54845-d845-4c08-8c5e-f2ab376b0e6e
